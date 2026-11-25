@@ -1,0 +1,3402 @@
+{
+ "10:CLASE-GUIADA.md:1": {
+  "huella": "8483d7e596f47855",
+  "archivo": "10/01.m4a"
+ },
+ "10:CLASE-GUIADA.md:2": {
+  "huella": "cd809359399bc195",
+  "archivo": "10/02.m4a"
+ },
+ "10:CLASE-GUIADA.md:3": {
+  "huella": "04f40b4869d76ecb",
+  "archivo": "10/03.m4a"
+ },
+ "10:CLASE-GUIADA.md:4": {
+  "huella": "c116986bba0ec652",
+  "archivo": "10/04.m4a"
+ },
+ "10:CLASE-GUIADA.md:5": {
+  "huella": "d358fddfa006cbef",
+  "archivo": "10/05.m4a"
+ },
+ "10:CLASE-GUIADA.md:6": {
+  "huella": "267ed2ba28445a34",
+  "archivo": "10/06.m4a"
+ },
+ "10:CLASE-GUIADA.md:7": {
+  "huella": "7e53d2531fe32665",
+  "archivo": "10/07.m4a"
+ },
+ "10:CLASE-GUIADA.md:8": {
+  "huella": "757f91351dddf144",
+  "archivo": "10/08.m4a"
+ },
+ "10:CLASE-GUIADA.md:9": {
+  "huella": "ede19558ebe5058c",
+  "archivo": "10/09.m4a"
+ },
+ "10:CLASE-GUIADA.md:10": {
+  "huella": "312f45d781a37a0f",
+  "archivo": "10/10.m4a"
+ },
+ "10:CLASE-GUIADA.md:11": {
+  "huella": "fadb6b21a4efdbf7",
+  "archivo": "10/11.m4a"
+ },
+ "11:CLASE-GUIADA.md:1": {
+  "huella": "96fb846305eb3437",
+  "archivo": "11/01.m4a"
+ },
+ "11:CLASE-GUIADA.md:2": {
+  "huella": "017b12fc33e22da0",
+  "archivo": "11/02.m4a"
+ },
+ "11:CLASE-GUIADA.md:3": {
+  "huella": "afa6fbe08b159c45",
+  "archivo": "11/03.m4a"
+ },
+ "11:CLASE-GUIADA.md:4": {
+  "huella": "46f2bbc103d8d66e",
+  "archivo": "11/04.m4a"
+ },
+ "11:CLASE-GUIADA.md:5": {
+  "huella": "90b3676334ef6081",
+  "archivo": "11/05.m4a"
+ },
+ "11:CLASE-GUIADA.md:6": {
+  "huella": "39844d9536558a22",
+  "archivo": "11/06.m4a"
+ },
+ "11:CLASE-GUIADA.md:7": {
+  "huella": "3943f7a2050ee755",
+  "archivo": "11/07.m4a"
+ },
+ "11:CLASE-GUIADA.md:8": {
+  "huella": "bf38e3a6078989b9",
+  "archivo": "11/08.m4a"
+ },
+ "11:CLASE-GUIADA.md:9": {
+  "huella": "d4aa38522443de85",
+  "archivo": "11/09.m4a"
+ },
+ "11:CLASE-GUIADA.md:10": {
+  "huella": "ac2fd6d577595d0d",
+  "archivo": "11/10.m4a"
+ },
+ "11:CLASE-GUIADA.md:11": {
+  "huella": "3e89cf4a5517f723",
+  "archivo": "11/11.m4a"
+ },
+ "11:CLASE-GUIADA.md:12": {
+  "huella": "63c494ed4673a81c",
+  "archivo": "11/12.m4a"
+ },
+ "11:CLASE-GUIADA.md:13": {
+  "huella": "17a74be8fd9c9550",
+  "archivo": "11/13.m4a"
+ },
+ "11:CLASE-GUIADA.md:14": {
+  "huella": "f7f82e9a93f7131a",
+  "archivo": "11/14.m4a"
+ },
+ "11:CLASE-GUIADA.md:15": {
+  "huella": "23196dc5a9670b2b",
+  "archivo": "11/15.m4a"
+ },
+ "11:CLASE-GUIADA.md:16": {
+  "huella": "7d69a0c82c00b1a4",
+  "archivo": "11/16.m4a"
+ },
+ "12:CLASE-GUIADA.md:1": {
+  "huella": "e5413cabe19f9683",
+  "archivo": "12/01.m4a"
+ },
+ "12:CLASE-GUIADA.md:2": {
+  "huella": "3e49096c4c0b3e90",
+  "archivo": "12/02.m4a"
+ },
+ "12:CLASE-GUIADA.md:3": {
+  "huella": "a44554a2ddadc52b",
+  "archivo": "12/03.m4a"
+ },
+ "12:CLASE-GUIADA.md:4": {
+  "huella": "c994ec07d57718ea",
+  "archivo": "12/04.m4a"
+ },
+ "12:CLASE-GUIADA.md:5": {
+  "huella": "b9b2fc142fa60575",
+  "archivo": "12/05.m4a"
+ },
+ "12:CLASE-GUIADA.md:6": {
+  "huella": "0076141ec3ae7e84",
+  "archivo": "12/06.m4a"
+ },
+ "12:CLASE-GUIADA.md:7": {
+  "huella": "476b4c3dff13e76f",
+  "archivo": "12/07.m4a"
+ },
+ "12:CLASE-GUIADA.md:8": {
+  "huella": "502d5f7773867f9a",
+  "archivo": "12/08.m4a"
+ },
+ "12:CLASE-GUIADA.md:9": {
+  "huella": "5191eefc21873668",
+  "archivo": "12/09.m4a"
+ },
+ "12:CLASE-GUIADA.md:10": {
+  "huella": "a49e0bc3fc676907",
+  "archivo": "12/10.m4a"
+ },
+ "12:CLASE-GUIADA.md:11": {
+  "huella": "ec54af1e100b9c6d",
+  "archivo": "12/11.m4a"
+ },
+ "12:CLASE-GUIADA.md:12": {
+  "huella": "1c45f3c253866358",
+  "archivo": "12/12.m4a"
+ },
+ "12:CLASE-GUIADA.md:13": {
+  "huella": "e071e3eab903714f",
+  "archivo": "12/13.m4a"
+ },
+ "13:CLASE-GUIADA.md:1": {
+  "huella": "46d9953e5c378f0f",
+  "archivo": "13/01.m4a"
+ },
+ "13:CLASE-GUIADA.md:2": {
+  "huella": "104de486fef64b9d",
+  "archivo": "13/02.m4a"
+ },
+ "13:CLASE-GUIADA.md:3": {
+  "huella": "10ee2e4ec7d8c722",
+  "archivo": "13/03.m4a"
+ },
+ "13:CLASE-GUIADA.md:4": {
+  "huella": "44fdc58acd3210c0",
+  "archivo": "13/04.m4a"
+ },
+ "13:CLASE-GUIADA.md:5": {
+  "huella": "b9eae8eaad195b85",
+  "archivo": "13/05.m4a"
+ },
+ "13:CLASE-GUIADA.md:6": {
+  "huella": "813391a68167804b",
+  "archivo": "13/06.m4a"
+ },
+ "13:CLASE-GUIADA.md:7": {
+  "huella": "30aedf419b59278a",
+  "archivo": "13/07.m4a"
+ },
+ "13:CLASE-GUIADA.md:8": {
+  "huella": "9cbd26b2b4150a96",
+  "archivo": "13/08.m4a"
+ },
+ "13:CLASE-GUIADA.md:9": {
+  "huella": "4fad4c0e35f9b097",
+  "archivo": "13/09.m4a"
+ },
+ "13:CLASE-GUIADA.md:10": {
+  "huella": "9aa63981c1d0d37c",
+  "archivo": "13/10.m4a"
+ },
+ "13:CLASE-GUIADA.md:11": {
+  "huella": "8a78419370da295b",
+  "archivo": "13/11.m4a"
+ },
+ "13:CLASE-GUIADA.md:12": {
+  "huella": "7385edaf543a658d",
+  "archivo": "13/12.m4a"
+ },
+ "13:CLASE-GUIADA.md:13": {
+  "huella": "ef810230a341dc97",
+  "archivo": "13/13.m4a"
+ },
+ "13:CLASE-GUIADA.md:14": {
+  "huella": "fb85f110eb4f0f2e",
+  "archivo": "13/14.m4a"
+ },
+ "14:CLASE-GUIADA.md:1": {
+  "huella": "f0f1a3c8446852b4",
+  "archivo": "14/01.m4a"
+ },
+ "14:CLASE-GUIADA.md:2": {
+  "huella": "a31d4304690652b7",
+  "archivo": "14/02.m4a"
+ },
+ "14:CLASE-GUIADA.md:3": {
+  "huella": "42fd9a59efbd8cec",
+  "archivo": "14/03.m4a"
+ },
+ "14:CLASE-GUIADA.md:4": {
+  "huella": "5bea99f00d187123",
+  "archivo": "14/04.m4a"
+ },
+ "14:CLASE-GUIADA.md:5": {
+  "huella": "959e37b8485fd176",
+  "archivo": "14/05.m4a"
+ },
+ "14:CLASE-GUIADA.md:6": {
+  "huella": "19ceee3c59090e35",
+  "archivo": "14/06.m4a"
+ },
+ "14:CLASE-GUIADA.md:7": {
+  "huella": "bf3de0dea56079fe",
+  "archivo": "14/07.m4a"
+ },
+ "14:CLASE-GUIADA.md:8": {
+  "huella": "1b47031a7a7ee533",
+  "archivo": "14/08.m4a"
+ },
+ "14:CLASE-GUIADA.md:9": {
+  "huella": "6d832b89fad503d7",
+  "archivo": "14/09.m4a"
+ },
+ "14:CLASE-GUIADA.md:10": {
+  "huella": "807bdcd86b0ad4a8",
+  "archivo": "14/10.m4a"
+ },
+ "14:CLASE-GUIADA.md:11": {
+  "huella": "01d3e04fb5dc24c1",
+  "archivo": "14/11.m4a"
+ },
+ "14:CLASE-GUIADA.md:12": {
+  "huella": "d254792fc87baeaf",
+  "archivo": "14/12.m4a"
+ },
+ "14:CLASE-GUIADA.md:13": {
+  "huella": "e6e1e68c3c0a66a8",
+  "archivo": "14/13.m4a"
+ },
+ "14:CLASE-GUIADA.md:14": {
+  "huella": "90e5a4f046b0437a",
+  "archivo": "14/14.m4a"
+ },
+ "15:CLASE-GUIADA.md:1": {
+  "huella": "1135bdbf030778ad",
+  "archivo": "15/01.m4a"
+ },
+ "15:CLASE-GUIADA.md:2": {
+  "huella": "a4a7732a7ba89106",
+  "archivo": "15/02.m4a"
+ },
+ "15:CLASE-GUIADA.md:3": {
+  "huella": "47b334bd8bc263a0",
+  "archivo": "15/03.m4a"
+ },
+ "15:CLASE-GUIADA.md:4": {
+  "huella": "41ea29594d388d5a",
+  "archivo": "15/04.m4a"
+ },
+ "15:CLASE-GUIADA.md:5": {
+  "huella": "f1023dbf4a436f04",
+  "archivo": "15/05.m4a"
+ },
+ "15:CLASE-GUIADA.md:6": {
+  "huella": "306c1c09d90d95fb",
+  "archivo": "15/06.m4a"
+ },
+ "15:CLASE-GUIADA.md:7": {
+  "huella": "0a0fc434b83e62b4",
+  "archivo": "15/07.m4a"
+ },
+ "15:CLASE-GUIADA.md:8": {
+  "huella": "6042666a969dffbd",
+  "archivo": "15/08.m4a"
+ },
+ "15:CLASE-GUIADA.md:9": {
+  "huella": "9f8a5db419544eb3",
+  "archivo": "15/09.m4a"
+ },
+ "15:CLASE-GUIADA.md:10": {
+  "huella": "88e9a570699372fa",
+  "archivo": "15/10.m4a"
+ },
+ "16:CLASE-GUIADA.md:1": {
+  "huella": "847d30daf5945c54",
+  "archivo": "16/01.m4a"
+ },
+ "16:CLASE-GUIADA.md:2": {
+  "huella": "9d1a2302880b47e3",
+  "archivo": "16/02.m4a"
+ },
+ "16:CLASE-GUIADA.md:3": {
+  "huella": "3b8529c67205909f",
+  "archivo": "16/03.m4a"
+ },
+ "16:CLASE-GUIADA.md:4": {
+  "huella": "5eafdf2048f109c6",
+  "archivo": "16/04.m4a"
+ },
+ "16:CLASE-GUIADA.md:5": {
+  "huella": "095f4068ce9dc58b",
+  "archivo": "16/05.m4a"
+ },
+ "16:CLASE-GUIADA.md:6": {
+  "huella": "3a758f755a83082b",
+  "archivo": "16/06.m4a"
+ },
+ "16:CLASE-GUIADA.md:7": {
+  "huella": "8eda8d4bbf1f8cb2",
+  "archivo": "16/07.m4a"
+ },
+ "16:CLASE-GUIADA.md:8": {
+  "huella": "ffa4959ac61dbf05",
+  "archivo": "16/08.m4a"
+ },
+ "16:CLASE-GUIADA.md:9": {
+  "huella": "12536a66d360c385",
+  "archivo": "16/09.m4a"
+ },
+ "16:CLASE-GUIADA.md:10": {
+  "huella": "f5cbd499c2aa3dc4",
+  "archivo": "16/10.m4a"
+ },
+ "16:CLASE-GUIADA.md:11": {
+  "huella": "798ebc37f7e42cab",
+  "archivo": "16/11.m4a"
+ },
+ "16:CLASE-GUIADA.md:12": {
+  "huella": "55a8792f1ff1a980",
+  "archivo": "16/12.m4a"
+ },
+ "17:CLASE-GUIADA.md:1": {
+  "huella": "fff3bc226ae0a4ca",
+  "archivo": "17/01.m4a"
+ },
+ "17:CLASE-GUIADA.md:2": {
+  "huella": "9f8ba5ac3114db4d",
+  "archivo": "17/02.m4a"
+ },
+ "17:CLASE-GUIADA.md:3": {
+  "huella": "8b2eea2c42e6b717",
+  "archivo": "17/03.m4a"
+ },
+ "17:CLASE-GUIADA.md:4": {
+  "huella": "a06a41b49d3f5ac1",
+  "archivo": "17/04.m4a"
+ },
+ "17:CLASE-GUIADA.md:5": {
+  "huella": "f42efff11c3f2750",
+  "archivo": "17/05.m4a"
+ },
+ "17:CLASE-GUIADA.md:6": {
+  "huella": "2de4bd0670b0aae4",
+  "archivo": "17/06.m4a"
+ },
+ "17:CLASE-GUIADA.md:7": {
+  "huella": "c9b37151fb2621f6",
+  "archivo": "17/07.m4a"
+ },
+ "17:CLASE-GUIADA.md:8": {
+  "huella": "d7a46a9bffc68053",
+  "archivo": "17/08.m4a"
+ },
+ "17:CLASE-GUIADA.md:9": {
+  "huella": "4d284b789c0c3ebe",
+  "archivo": "17/09.m4a"
+ },
+ "17:CLASE-GUIADA.md:10": {
+  "huella": "93154bd3b94f547b",
+  "archivo": "17/10.m4a"
+ },
+ "17:CLASE-GUIADA.md:11": {
+  "huella": "6a03d9bf4fa1206f",
+  "archivo": "17/11.m4a"
+ },
+ "17:CLASE-GUIADA.md:12": {
+  "huella": "c7ce03468dab7fa7",
+  "archivo": "17/12.m4a"
+ },
+ "18:CLASE-GUIADA.md:1": {
+  "huella": "1051dec43aa12ce0",
+  "archivo": "18/01.m4a"
+ },
+ "18:CLASE-GUIADA.md:2": {
+  "huella": "13300a81eee6329b",
+  "archivo": "18/02.m4a"
+ },
+ "18:CLASE-GUIADA.md:3": {
+  "huella": "125edf3809e50eaf",
+  "archivo": "18/03.m4a"
+ },
+ "18:CLASE-GUIADA.md:4": {
+  "huella": "5796baaab263a0be",
+  "archivo": "18/04.m4a"
+ },
+ "18:CLASE-GUIADA.md:5": {
+  "huella": "c41688b042ec7bbf",
+  "archivo": "18/05.m4a"
+ },
+ "18:CLASE-GUIADA.md:6": {
+  "huella": "cd20fe6431df14b0",
+  "archivo": "18/06.m4a"
+ },
+ "18:CLASE-GUIADA.md:7": {
+  "huella": "af08a3d65e680ef6",
+  "archivo": "18/07.m4a"
+ },
+ "18:CLASE-GUIADA.md:8": {
+  "huella": "98dba832c39ed9c6",
+  "archivo": "18/08.m4a"
+ },
+ "18:CLASE-GUIADA.md:9": {
+  "huella": "24d0d5703ebca9df",
+  "archivo": "18/09.m4a"
+ },
+ "18:CLASE-GUIADA.md:10": {
+  "huella": "c677dbad8f561dee",
+  "archivo": "18/10.m4a"
+ },
+ "18:CLASE-GUIADA.md:11": {
+  "huella": "953849b83ded6854",
+  "archivo": "18/11.m4a"
+ },
+ "18:CLASE-GUIADA.md:12": {
+  "huella": "5911f5db18a20eb8",
+  "archivo": "18/12.m4a"
+ },
+ "18:CLASE-GUIADA.md:13": {
+  "huella": "e5d41d16c2b0e2ed",
+  "archivo": "18/13.m4a"
+ },
+ "19:LECCION.md:1": {
+  "huella": "112593c45c7285ba",
+  "archivo": "19/01.m4a"
+ },
+ "19:LECCION.md:2": {
+  "huella": "58ac497d57dfca1f",
+  "archivo": "19/02.m4a"
+ },
+ "19:LECCION.md:3": {
+  "huella": "fda67ce7a927a733",
+  "archivo": "19/03.m4a"
+ },
+ "19:LECCION.md:4": {
+  "huella": "97686d1dca3e8bd5",
+  "archivo": "19/04.m4a"
+ },
+ "19:LECCION.md:5": {
+  "huella": "baa927f4b040ba3d",
+  "archivo": "19/05.m4a"
+ },
+ "19:LECCION.md:6": {
+  "huella": "ad3077f5a8244f11",
+  "archivo": "19/06.m4a"
+ },
+ "19:LECCION.md:7": {
+  "huella": "7f6f6305a23171df",
+  "archivo": "19/07.m4a"
+ },
+ "19:LECCION.md:8": {
+  "huella": "5ea639a8ca752e23",
+  "archivo": "19/08.m4a"
+ },
+ "19:LECCION.md:9": {
+  "huella": "5a86bdcb0301931f",
+  "archivo": "19/09.m4a"
+ },
+ "19:LECCION.md:10": {
+  "huella": "e6ec3761afcf64ef",
+  "archivo": "19/10.m4a"
+ },
+ "19:LECCION.md:11": {
+  "huella": "0eae7e22c223e711",
+  "archivo": "19/11.m4a"
+ },
+ "20:CLASE-GUIADA.md:1": {
+  "huella": "038e7f2520bd45de",
+  "archivo": "20/01.m4a"
+ },
+ "20:CLASE-GUIADA.md:2": {
+  "huella": "3c065f962cca3c3d",
+  "archivo": "20/02.m4a"
+ },
+ "20:CLASE-GUIADA.md:3": {
+  "huella": "a3f69f224d1b0dfa",
+  "archivo": "20/03.m4a"
+ },
+ "20:CLASE-GUIADA.md:4": {
+  "huella": "a33c7ba78962d2be",
+  "archivo": "20/04.m4a"
+ },
+ "20:CLASE-GUIADA.md:5": {
+  "huella": "da4bb218e017d47f",
+  "archivo": "20/05.m4a"
+ },
+ "20:CLASE-GUIADA.md:6": {
+  "huella": "8722de97ba2b17b9",
+  "archivo": "20/06.m4a"
+ },
+ "20:CLASE-GUIADA.md:7": {
+  "huella": "af6445ab6078ab36",
+  "archivo": "20/07.m4a"
+ },
+ "20:CLASE-GUIADA.md:8": {
+  "huella": "76e4027c672bd105",
+  "archivo": "20/08.m4a"
+ },
+ "20:CLASE-GUIADA.md:9": {
+  "huella": "bb58f42a9df9c4f1",
+  "archivo": "20/09.m4a"
+ },
+ "20:CLASE-GUIADA.md:10": {
+  "huella": "3fcdd6786e5fe5a2",
+  "archivo": "20/10.m4a"
+ },
+ "20:CLASE-GUIADA.md:11": {
+  "huella": "ace69e5daec25fa9",
+  "archivo": "20/11.m4a"
+ },
+ "20:CLASE-GUIADA.md:12": {
+  "huella": "77574bf6e13971a0",
+  "archivo": "20/12.m4a"
+ },
+ "20:CLASE-GUIADA.md:13": {
+  "huella": "5a421937b338a998",
+  "archivo": "20/13.m4a"
+ },
+ "20:CLASE-GUIADA.md:14": {
+  "huella": "06d035c9329e9ab3",
+  "archivo": "20/14.m4a"
+ },
+ "21:LECCION.md:1": {
+  "huella": "adaa83481a7ec62d",
+  "archivo": "21/01.m4a"
+ },
+ "21:LECCION.md:2": {
+  "huella": "7d43f764a16c798a",
+  "archivo": "21/02.m4a"
+ },
+ "21:LECCION.md:3": {
+  "huella": "d10d06d063288a01",
+  "archivo": "21/03.m4a"
+ },
+ "21:LECCION.md:4": {
+  "huella": "d33d29eb05d18d3d",
+  "archivo": "21/04.m4a"
+ },
+ "21:LECCION.md:5": {
+  "huella": "ca70f7ba83ed86a9",
+  "archivo": "21/05.m4a"
+ },
+ "21:LECCION.md:6": {
+  "huella": "cd3fa129c9d29c96",
+  "archivo": "21/06.m4a"
+ },
+ "21:LECCION.md:7": {
+  "huella": "9d1677e56fb65217",
+  "archivo": "21/07.m4a"
+ },
+ "21:LECCION.md:8": {
+  "huella": "fd7430f186a2932f",
+  "archivo": "21/08.m4a"
+ },
+ "21:LECCION.md:9": {
+  "huella": "f497dfb717db3543",
+  "archivo": "21/09.m4a"
+ },
+ "22:LECCION.md:1": {
+  "huella": "b02844a6e59d0601",
+  "archivo": "22/01.m4a"
+ },
+ "22:LECCION.md:2": {
+  "huella": "11d619f5741469c2",
+  "archivo": "22/02.m4a"
+ },
+ "22:LECCION.md:3": {
+  "huella": "669aa6ccc09a1479",
+  "archivo": "22/03.m4a"
+ },
+ "22:LECCION.md:4": {
+  "huella": "28f3b1411eda7579",
+  "archivo": "22/04.m4a"
+ },
+ "22:LECCION.md:5": {
+  "huella": "5e52396f4d4cecf9",
+  "archivo": "22/05.m4a"
+ },
+ "22:LECCION.md:6": {
+  "huella": "69b37f2db0693913",
+  "archivo": "22/06.m4a"
+ },
+ "22:LECCION.md:7": {
+  "huella": "8a2879179fc2e1e0",
+  "archivo": "22/07.m4a"
+ },
+ "22:LECCION.md:8": {
+  "huella": "6e55b93692d52146",
+  "archivo": "22/08.m4a"
+ },
+ "23:LECCION.md:1": {
+  "huella": "ffa4f77cfee40482",
+  "archivo": "23/01.m4a"
+ },
+ "23:LECCION.md:2": {
+  "huella": "dfb15037bd532a5e",
+  "archivo": "23/02.m4a"
+ },
+ "23:LECCION.md:3": {
+  "huella": "c7b1df5946d6dfb0",
+  "archivo": "23/03.m4a"
+ },
+ "23:LECCION.md:4": {
+  "huella": "d72f4e03ff7bc6c7",
+  "archivo": "23/04.m4a"
+ },
+ "23:LECCION.md:5": {
+  "huella": "d95a39475a33c5b6",
+  "archivo": "23/05.m4a"
+ },
+ "23:LECCION.md:6": {
+  "huella": "29a3bd781efd08b3",
+  "archivo": "23/06.m4a"
+ },
+ "23:LECCION.md:7": {
+  "huella": "977d4b9d4a87876d",
+  "archivo": "23/07.m4a"
+ },
+ "23:LECCION.md:8": {
+  "huella": "d0fa2a927dfd412c",
+  "archivo": "23/08.m4a"
+ },
+ "23:LECCION.md:9": {
+  "huella": "5fe8e81fdf82d244",
+  "archivo": "23/09.m4a"
+ },
+ "24:LECCION.md:1": {
+  "huella": "6eb819479e3eab74",
+  "archivo": "24/01.m4a"
+ },
+ "24:LECCION.md:2": {
+  "huella": "f98936d37a1e71f4",
+  "archivo": "24/02.m4a"
+ },
+ "24:LECCION.md:3": {
+  "huella": "4483a353a6acc7aa",
+  "archivo": "24/03.m4a"
+ },
+ "24:LECCION.md:4": {
+  "huella": "d4a27bc96300dd2b",
+  "archivo": "24/04.m4a"
+ },
+ "24:LECCION.md:5": {
+  "huella": "25e2ff2632b21583",
+  "archivo": "24/05.m4a"
+ },
+ "24:LECCION.md:6": {
+  "huella": "66056f878b8fc386",
+  "archivo": "24/06.m4a"
+ },
+ "24:LECCION.md:7": {
+  "huella": "7b75332c30336d2f",
+  "archivo": "24/07.m4a"
+ },
+ "24:LECCION.md:8": {
+  "huella": "7d6cf1f5cf66f398",
+  "archivo": "24/08.m4a"
+ },
+ "24:LECCION.md:9": {
+  "huella": "415d1df1c881effe",
+  "archivo": "24/09.m4a"
+ },
+ "25:LECCION.md:1": {
+  "huella": "6cc90806cb5e74fe",
+  "archivo": "25/01.m4a"
+ },
+ "25:LECCION.md:2": {
+  "huella": "2563359254a50530",
+  "archivo": "25/02.m4a"
+ },
+ "25:LECCION.md:3": {
+  "huella": "a50539e868ac3cda",
+  "archivo": "25/03.m4a"
+ },
+ "25:LECCION.md:4": {
+  "huella": "dff8ad00c2e7fc04",
+  "archivo": "25/04.m4a"
+ },
+ "25:LECCION.md:5": {
+  "huella": "0a9cd26e3873b609",
+  "archivo": "25/05.m4a"
+ },
+ "25:LECCION.md:6": {
+  "huella": "1fb5e3ad0dd009a5",
+  "archivo": "25/06.m4a"
+ },
+ "26:LECCION.md:1": {
+  "huella": "48e5afbf608f908b",
+  "archivo": "26/01.m4a"
+ },
+ "26:LECCION.md:2": {
+  "huella": "de892b74a31e9d89",
+  "archivo": "26/02.m4a"
+ },
+ "26:LECCION.md:3": {
+  "huella": "cae05eb7743c0569",
+  "archivo": "26/03.m4a"
+ },
+ "26:LECCION.md:4": {
+  "huella": "f99d0acd73f36a4f",
+  "archivo": "26/04.m4a"
+ },
+ "26:LECCION.md:5": {
+  "huella": "628149bd9a09ac1b",
+  "archivo": "26/05.m4a"
+ },
+ "26:LECCION.md:6": {
+  "huella": "b431182f0883e2e1",
+  "archivo": "26/06.m4a"
+ },
+ "26:LECCION.md:7": {
+  "huella": "b85d2fb60f21a461",
+  "archivo": "26/07.m4a"
+ },
+ "27:LECCION.md:1": {
+  "huella": "ae65f1631872cedd",
+  "archivo": "27/01.m4a"
+ },
+ "27:LECCION.md:2": {
+  "huella": "b9067e7144f4e2a2",
+  "archivo": "27/02.m4a"
+ },
+ "27:LECCION.md:3": {
+  "huella": "9bfb14fbfdd1eea6",
+  "archivo": "27/03.m4a"
+ },
+ "27:LECCION.md:4": {
+  "huella": "3b0a1f46932d7e94",
+  "archivo": "27/04.m4a"
+ },
+ "27:LECCION.md:5": {
+  "huella": "d98b2f305468c428",
+  "archivo": "27/05.m4a"
+ },
+ "27:LECCION.md:6": {
+  "huella": "2f6abc357f10f978",
+  "archivo": "27/06.m4a"
+ },
+ "27:LECCION.md:7": {
+  "huella": "f30ff1120f2a0a65",
+  "archivo": "27/07.m4a"
+ },
+ "27:LECCION.md:8": {
+  "huella": "ca796dfdce80ab9a",
+  "archivo": "27/08.m4a"
+ },
+ "28:LECCION.md:1": {
+  "huella": "abf4d9913b413a70",
+  "archivo": "28/01.m4a"
+ },
+ "28:LECCION.md:2": {
+  "huella": "f5faab8d58186d83",
+  "archivo": "28/02.m4a"
+ },
+ "28:LECCION.md:3": {
+  "huella": "aff3918eb7db0b56",
+  "archivo": "28/03.m4a"
+ },
+ "28:LECCION.md:4": {
+  "huella": "11a76a91ecc61526",
+  "archivo": "28/04.m4a"
+ },
+ "28:LECCION.md:5": {
+  "huella": "1b564846c99591f4",
+  "archivo": "28/05.m4a"
+ },
+ "28:LECCION.md:6": {
+  "huella": "a81d8c3abec0783f",
+  "archivo": "28/06.m4a"
+ },
+ "28:LECCION.md:7": {
+  "huella": "cfcfb75f4fd3be1f",
+  "archivo": "28/07.m4a"
+ },
+ "28:LECCION.md:8": {
+  "huella": "911c2716d959e604",
+  "archivo": "28/08.m4a"
+ },
+ "28:LECCION.md:9": {
+  "huella": "9bbb4a713a5d9fb2",
+  "archivo": "28/09.m4a"
+ },
+ "28:LECCION.md:10": {
+  "huella": "f26dba46465e6f28",
+  "archivo": "28/10.m4a"
+ },
+ "28:LECCION.md:11": {
+  "huella": "de81b1a91333c497",
+  "archivo": "28/11.m4a"
+ },
+ "28:LECCION.md:12": {
+  "huella": "5d1a707cbcd381f1",
+  "archivo": "28/12.m4a"
+ },
+ "28:LECCION.md:13": {
+  "huella": "bf4bbddb42cced0f",
+  "archivo": "28/13.m4a"
+ },
+ "28:LECCION.md:14": {
+  "huella": "94e3359bbd573703",
+  "archivo": "28/14.m4a"
+ },
+ "29:LECCION.md:1": {
+  "huella": "a1b6ecf651c4d885",
+  "archivo": "29/01.m4a"
+ },
+ "29:LECCION.md:2": {
+  "huella": "6801ae84fd2bda1f",
+  "archivo": "29/02.m4a"
+ },
+ "29:LECCION.md:3": {
+  "huella": "9daa75ea93df3090",
+  "archivo": "29/03.m4a"
+ },
+ "29:LECCION.md:4": {
+  "huella": "da8e7b31cbf0661a",
+  "archivo": "29/04.m4a"
+ },
+ "29:LECCION.md:5": {
+  "huella": "0362034327743991",
+  "archivo": "29/05.m4a"
+ },
+ "29:LECCION.md:6": {
+  "huella": "989d2de2399e114a",
+  "archivo": "29/06.m4a"
+ },
+ "29:LECCION.md:7": {
+  "huella": "20fc8ae786f6b2b0",
+  "archivo": "29/07.m4a"
+ },
+ "29:LECCION.md:8": {
+  "huella": "532aafcf7da95325",
+  "archivo": "29/08.m4a"
+ },
+ "29:LECCION.md:9": {
+  "huella": "03332e515b3fa392",
+  "archivo": "29/09.m4a"
+ },
+ "29:LECCION.md:10": {
+  "huella": "3a9f9d1789727812",
+  "archivo": "29/10.m4a"
+ },
+ "30:LECCION.md:1": {
+  "huella": "5a8c3448d3bf9db1",
+  "archivo": "30/01.m4a"
+ },
+ "30:LECCION.md:2": {
+  "huella": "ca88fd9056792a27",
+  "archivo": "30/02.m4a"
+ },
+ "30:LECCION.md:3": {
+  "huella": "1fb3621a7733c8e2",
+  "archivo": "30/03.m4a"
+ },
+ "30:LECCION.md:4": {
+  "huella": "8ec42ec8a24683d2",
+  "archivo": "30/04.m4a"
+ },
+ "30:LECCION.md:5": {
+  "huella": "8c53453f5852da4f",
+  "archivo": "30/05.m4a"
+ },
+ "31:LECCION.md:1": {
+  "huella": "baf1291539031537",
+  "archivo": "31/01.m4a"
+ },
+ "31:LECCION.md:2": {
+  "huella": "887e63675ba39e91",
+  "archivo": "31/02.m4a"
+ },
+ "31:LECCION.md:3": {
+  "huella": "3b28af5ac91e396d",
+  "archivo": "31/03.m4a"
+ },
+ "31:LECCION.md:4": {
+  "huella": "3dfc7c666f0949e8",
+  "archivo": "31/04.m4a"
+ },
+ "31:LECCION.md:5": {
+  "huella": "bd1c26c9fd9141e8",
+  "archivo": "31/05.m4a"
+ },
+ "32:LECCION.md:1": {
+  "huella": "21e142079761b0d3",
+  "archivo": "32/01.m4a"
+ },
+ "32:LECCION.md:2": {
+  "huella": "fc25417ffd8cf2f7",
+  "archivo": "32/02.m4a"
+ },
+ "32:LECCION.md:3": {
+  "huella": "0df62be328b65bc3",
+  "archivo": "32/03.m4a"
+ },
+ "32:LECCION.md:4": {
+  "huella": "28e9bd3ddf55443b",
+  "archivo": "32/04.m4a"
+ },
+ "32:LECCION.md:5": {
+  "huella": "a4a204a2b341ef40",
+  "archivo": "32/05.m4a"
+ },
+ "33:LECCION.md:1": {
+  "huella": "7dab1dea9543fff1",
+  "archivo": "33/01.m4a"
+ },
+ "33:LECCION.md:2": {
+  "huella": "44baa1479c430284",
+  "archivo": "33/02.m4a"
+ },
+ "33:LECCION.md:3": {
+  "huella": "6ba71105a5bce263",
+  "archivo": "33/03.m4a"
+ },
+ "33:LECCION.md:4": {
+  "huella": "ad87419d8973a2c6",
+  "archivo": "33/04.m4a"
+ },
+ "34:LECCION.md:1": {
+  "huella": "bd52b9b94f1c4a44",
+  "archivo": "34/01.m4a"
+ },
+ "34:LECCION.md:2": {
+  "huella": "38665462a0c8426d",
+  "archivo": "34/02.m4a"
+ },
+ "34:LECCION.md:3": {
+  "huella": "0b595d49d3cf5023",
+  "archivo": "34/03.m4a"
+ },
+ "34:LECCION.md:4": {
+  "huella": "8ff02ef07d8d0dd0",
+  "archivo": "34/04.m4a"
+ },
+ "34:LECCION.md:5": {
+  "huella": "4004e5bb73757342",
+  "archivo": "34/05.m4a"
+ },
+ "34:LECCION.md:6": {
+  "huella": "2d09d2d5cca04f2a",
+  "archivo": "34/06.m4a"
+ },
+ "35:LECCION.md:1": {
+  "huella": "f6acf839a2088f62",
+  "archivo": "35/01.m4a"
+ },
+ "35:LECCION.md:2": {
+  "huella": "49babe1772b20975",
+  "archivo": "35/02.m4a"
+ },
+ "35:LECCION.md:3": {
+  "huella": "7e0365a1a30b83db",
+  "archivo": "35/03.m4a"
+ },
+ "35:LECCION.md:4": {
+  "huella": "bc3d7b04f9a991c3",
+  "archivo": "35/04.m4a"
+ },
+ "36:LECCION.md:1": {
+  "huella": "cfe797f1b8e48570",
+  "archivo": "36/01.m4a"
+ },
+ "36:LECCION.md:2": {
+  "huella": "df8e54170a085107",
+  "archivo": "36/02.m4a"
+ },
+ "36:LECCION.md:3": {
+  "huella": "57ea06b40c338e2a",
+  "archivo": "36/03.m4a"
+ },
+ "36:LECCION.md:4": {
+  "huella": "1a12661439dc7a9f",
+  "archivo": "36/04.m4a"
+ },
+ "36:LECCION.md:5": {
+  "huella": "5a3f0117cfc17cbd",
+  "archivo": "36/05.m4a"
+ },
+ "37:LECCION.md:1": {
+  "huella": "1743f3b38e887286",
+  "archivo": "37/01.m4a"
+ },
+ "37:LECCION.md:2": {
+  "huella": "b09371a88b01f09a",
+  "archivo": "37/02.m4a"
+ },
+ "37:LECCION.md:3": {
+  "huella": "8f1ce9283d40be00",
+  "archivo": "37/03.m4a"
+ },
+ "37:LECCION.md:4": {
+  "huella": "0d6113850f042269",
+  "archivo": "37/04.m4a"
+ },
+ "37:LECCION.md:5": {
+  "huella": "e0d85092f14ff2be",
+  "archivo": "37/05.m4a"
+ },
+ "38:LECCION.md:1": {
+  "huella": "235322b9965515ce",
+  "archivo": "38/01.m4a"
+ },
+ "38:LECCION.md:2": {
+  "huella": "65a4e540861f9863",
+  "archivo": "38/02.m4a"
+ },
+ "38:LECCION.md:3": {
+  "huella": "ff2bd718fe4977ef",
+  "archivo": "38/03.m4a"
+ },
+ "38:LECCION.md:4": {
+  "huella": "d8aa89773e1d96f1",
+  "archivo": "38/04.m4a"
+ },
+ "38:LECCION.md:5": {
+  "huella": "e71e062a3a99ab95",
+  "archivo": "38/05.m4a"
+ },
+ "39:LECCION.md:1": {
+  "huella": "1c4664ad5175a54e",
+  "archivo": "39/01.m4a"
+ },
+ "39:LECCION.md:2": {
+  "huella": "29120fe99a5311a1",
+  "archivo": "39/02.m4a"
+ },
+ "39:LECCION.md:3": {
+  "huella": "0a61dff25df972cb",
+  "archivo": "39/03.m4a"
+ },
+ "39:LECCION.md:4": {
+  "huella": "6fd3899807a9c740",
+  "archivo": "39/04.m4a"
+ },
+ "39:LECCION.md:5": {
+  "huella": "cf74cee649a10ad5",
+  "archivo": "39/05.m4a"
+ },
+ "40:LECCION.md:1": {
+  "huella": "bf0c30be4f29778c",
+  "archivo": "40/01.m4a"
+ },
+ "40:LECCION.md:2": {
+  "huella": "933b9cc7bfe8ece1",
+  "archivo": "40/02.m4a"
+ },
+ "40:LECCION.md:3": {
+  "huella": "188d0a8f3a9b1a52",
+  "archivo": "40/03.m4a"
+ },
+ "40:LECCION.md:4": {
+  "huella": "3bd754bf722e8c14",
+  "archivo": "40/04.m4a"
+ },
+ "40:LECCION.md:5": {
+  "huella": "21f4e8400763e705",
+  "archivo": "40/05.m4a"
+ },
+ "41:LECCION.md:1": {
+  "huella": "e76815e46c259357",
+  "archivo": "41/01.m4a"
+ },
+ "41:LECCION.md:2": {
+  "huella": "4af55cbb7c896a94",
+  "archivo": "41/02.m4a"
+ },
+ "41:LECCION.md:3": {
+  "huella": "955dff805b174093",
+  "archivo": "41/03.m4a"
+ },
+ "41:LECCION.md:4": {
+  "huella": "51366cb7dbce1813",
+  "archivo": "41/04.m4a"
+ },
+ "41:LECCION.md:5": {
+  "huella": "77cee531eee8c482",
+  "archivo": "41/05.m4a"
+ },
+ "42:LECCION.md:1": {
+  "huella": "c92c51c3dd62936a",
+  "archivo": "42/01.m4a"
+ },
+ "42:LECCION.md:2": {
+  "huella": "92ac7b46cf3dcf9e",
+  "archivo": "42/02.m4a"
+ },
+ "42:LECCION.md:3": {
+  "huella": "e43c994cb04a971e",
+  "archivo": "42/03.m4a"
+ },
+ "42:LECCION.md:4": {
+  "huella": "db0e13b1c5cc656b",
+  "archivo": "42/04.m4a"
+ },
+ "43:LECCION.md:1": {
+  "huella": "cca21d8963183a0b",
+  "archivo": "43/01.m4a"
+ },
+ "43:LECCION.md:2": {
+  "huella": "0cf2cfee9f4a4511",
+  "archivo": "43/02.m4a"
+ },
+ "43:LECCION.md:3": {
+  "huella": "f3a47e962001f080",
+  "archivo": "43/03.m4a"
+ },
+ "43:LECCION.md:4": {
+  "huella": "2f848775386f170d",
+  "archivo": "43/04.m4a"
+ },
+ "43:LECCION.md:5": {
+  "huella": "338346a2b604dffb",
+  "archivo": "43/05.m4a"
+ },
+ "44:LECCION.md:1": {
+  "huella": "e19e1c221439a1bd",
+  "archivo": "44/01.m4a"
+ },
+ "44:LECCION.md:2": {
+  "huella": "d191b5971979b942",
+  "archivo": "44/02.m4a"
+ },
+ "44:LECCION.md:3": {
+  "huella": "bbe72cd6b9122eda",
+  "archivo": "44/03.m4a"
+ },
+ "44:LECCION.md:4": {
+  "huella": "cd495c1a8ffc0049",
+  "archivo": "44/04.m4a"
+ },
+ "44:LECCION.md:5": {
+  "huella": "8278b687f57d2154",
+  "archivo": "44/05.m4a"
+ },
+ "45:LECCION.md:1": {
+  "huella": "3acb80de57731909",
+  "archivo": "45/01.m4a"
+ },
+ "45:LECCION.md:2": {
+  "huella": "17d69aacf821a34f",
+  "archivo": "45/02.m4a"
+ },
+ "45:LECCION.md:3": {
+  "huella": "19d2145e782792f9",
+  "archivo": "45/03.m4a"
+ },
+ "45:LECCION.md:4": {
+  "huella": "78bfd0a05206de82",
+  "archivo": "45/04.m4a"
+ },
+ "45:LECCION.md:5": {
+  "huella": "5130a3c60e091ab4",
+  "archivo": "45/05.m4a"
+ },
+ "46:LECCION.md:1": {
+  "huella": "574b5fecae8ca59b",
+  "archivo": "46/01.m4a"
+ },
+ "46:LECCION.md:2": {
+  "huella": "2be1869ebdfce190",
+  "archivo": "46/02.m4a"
+ },
+ "46:LECCION.md:3": {
+  "huella": "03769b5300b9bfee",
+  "archivo": "46/03.m4a"
+ },
+ "46:LECCION.md:4": {
+  "huella": "249b4e420e3cd395",
+  "archivo": "46/04.m4a"
+ },
+ "46:LECCION.md:5": {
+  "huella": "34b172fcca091b78",
+  "archivo": "46/05.m4a"
+ },
+ "47:LECCION.md:1": {
+  "huella": "69667aad1ce4c5f2",
+  "archivo": "47/01.m4a"
+ },
+ "47:LECCION.md:2": {
+  "huella": "a1ccecef0a3b1779",
+  "archivo": "47/02.m4a"
+ },
+ "47:LECCION.md:3": {
+  "huella": "ceb1c63e6ef24ce5",
+  "archivo": "47/03.m4a"
+ },
+ "47:LECCION.md:4": {
+  "huella": "8fe8bec4948ee97c",
+  "archivo": "47/04.m4a"
+ },
+ "47:LECCION.md:5": {
+  "huella": "921e04170e16f22d",
+  "archivo": "47/05.m4a"
+ },
+ "48:LECCION.md:1": {
+  "huella": "c2447981cf8def9b",
+  "archivo": "48/01.m4a"
+ },
+ "48:LECCION.md:2": {
+  "huella": "87d52f153e17c1e4",
+  "archivo": "48/02.m4a"
+ },
+ "48:LECCION.md:3": {
+  "huella": "be6822ec6925bf12",
+  "archivo": "48/03.m4a"
+ },
+ "48:LECCION.md:4": {
+  "huella": "3807335f55d65634",
+  "archivo": "48/04.m4a"
+ },
+ "48:LECCION.md:5": {
+  "huella": "e51564cfce0894ff",
+  "archivo": "48/05.m4a"
+ },
+ "49:LECCION.md:1": {
+  "huella": "1baa60f95083a38a",
+  "archivo": "49/01.m4a"
+ },
+ "49:LECCION.md:2": {
+  "huella": "d13e1b9d0982c05d",
+  "archivo": "49/02.m4a"
+ },
+ "49:LECCION.md:3": {
+  "huella": "825c309075c62a6d",
+  "archivo": "49/03.m4a"
+ },
+ "49:LECCION.md:4": {
+  "huella": "5f2b456f3cf2a192",
+  "archivo": "49/04.m4a"
+ },
+ "49:LECCION.md:5": {
+  "huella": "b1f74f65c108e9bc",
+  "archivo": "49/05.m4a"
+ },
+ "50:LECCION.md:1": {
+  "huella": "daa3f89f9208a576",
+  "archivo": "50/01.m4a"
+ },
+ "50:LECCION.md:2": {
+  "huella": "9d20058f651651e4",
+  "archivo": "50/02.m4a"
+ },
+ "50:LECCION.md:3": {
+  "huella": "38698b531a524e70",
+  "archivo": "50/03.m4a"
+ },
+ "50:LECCION.md:4": {
+  "huella": "e21dd36a1d809e0a",
+  "archivo": "50/04.m4a"
+ },
+ "50:LECCION.md:5": {
+  "huella": "116daab57c554154",
+  "archivo": "50/05.m4a"
+ },
+ "51:LECCION.md:1": {
+  "huella": "e501af7fc2136012",
+  "archivo": "51/01.m4a"
+ },
+ "51:LECCION.md:2": {
+  "huella": "e4a67f8e4b0eb643",
+  "archivo": "51/02.m4a"
+ },
+ "51:LECCION.md:3": {
+  "huella": "ff83a2aee334457c",
+  "archivo": "51/03.m4a"
+ },
+ "51:LECCION.md:4": {
+  "huella": "398660c6c377ca2a",
+  "archivo": "51/04.m4a"
+ },
+ "51:LECCION.md:5": {
+  "huella": "a4634b01c79882d1",
+  "archivo": "51/05.m4a"
+ },
+ "52:LECCION.md:1": {
+  "huella": "90539edae67d14f8",
+  "archivo": "52/01.m4a"
+ },
+ "52:LECCION.md:2": {
+  "huella": "c40443f9c4d3eea5",
+  "archivo": "52/02.m4a"
+ },
+ "52:LECCION.md:3": {
+  "huella": "9d0d7b95e72a0f2d",
+  "archivo": "52/03.m4a"
+ },
+ "52:LECCION.md:4": {
+  "huella": "54124832ff70073a",
+  "archivo": "52/04.m4a"
+ },
+ "52:LECCION.md:5": {
+  "huella": "1b83161e2b09bee8",
+  "archivo": "52/05.m4a"
+ },
+ "53:LECCION.md:1": {
+  "huella": "6cf79be21ce844c5",
+  "archivo": "53/01.m4a"
+ },
+ "53:LECCION.md:2": {
+  "huella": "0d8ac7b6a1ee28dc",
+  "archivo": "53/02.m4a"
+ },
+ "53:LECCION.md:3": {
+  "huella": "44783770420ff579",
+  "archivo": "53/03.m4a"
+ },
+ "53:LECCION.md:4": {
+  "huella": "cbabe849c5273e69",
+  "archivo": "53/04.m4a"
+ },
+ "53:LECCION.md:5": {
+  "huella": "14ce5d84d9e7aa19",
+  "archivo": "53/05.m4a"
+ },
+ "54:LECCION.md:1": {
+  "huella": "304e5f4f02a3fcde",
+  "archivo": "54/01.m4a"
+ },
+ "54:LECCION.md:2": {
+  "huella": "3bddb5967c4c9452",
+  "archivo": "54/02.m4a"
+ },
+ "54:LECCION.md:3": {
+  "huella": "b5c33d51fc6c8ec8",
+  "archivo": "54/03.m4a"
+ },
+ "54:LECCION.md:4": {
+  "huella": "30540e811405c221",
+  "archivo": "54/04.m4a"
+ },
+ "55:LECCION.md:1": {
+  "huella": "22d1b6bf634b4e86",
+  "archivo": "55/01.m4a"
+ },
+ "55:LECCION.md:2": {
+  "huella": "8815bb1e02b7f9f3",
+  "archivo": "55/02.m4a"
+ },
+ "55:LECCION.md:3": {
+  "huella": "30e23b6b6d8b913f",
+  "archivo": "55/03.m4a"
+ },
+ "55:LECCION.md:4": {
+  "huella": "7bc8c875705c2d0e",
+  "archivo": "55/04.m4a"
+ },
+ "56:LECCION.md:1": {
+  "huella": "ad29333c2cb8e57e",
+  "archivo": "56/01.m4a"
+ },
+ "56:LECCION.md:2": {
+  "huella": "de8bba4963b61cb0",
+  "archivo": "56/02.m4a"
+ },
+ "56:LECCION.md:3": {
+  "huella": "e5340a6b18adf186",
+  "archivo": "56/03.m4a"
+ },
+ "56:LECCION.md:4": {
+  "huella": "830cad77983e02d8",
+  "archivo": "56/04.m4a"
+ },
+ "57:LECCION.md:1": {
+  "huella": "68944bb2322eb478",
+  "archivo": "57/01.m4a"
+ },
+ "57:LECCION.md:2": {
+  "huella": "19164fbb3b8a255c",
+  "archivo": "57/02.m4a"
+ },
+ "57:LECCION.md:3": {
+  "huella": "1ca55ec0485a6a36",
+  "archivo": "57/03.m4a"
+ },
+ "57:LECCION.md:4": {
+  "huella": "59887084e80533e9",
+  "archivo": "57/04.m4a"
+ },
+ "58:LECCION.md:1": {
+  "huella": "a72d620d5d2aa942",
+  "archivo": "58/01.m4a"
+ },
+ "58:LECCION.md:2": {
+  "huella": "b13971e2bd4c44f4",
+  "archivo": "58/02.m4a"
+ },
+ "58:LECCION.md:3": {
+  "huella": "d16084bb351de0d6",
+  "archivo": "58/03.m4a"
+ },
+ "58:LECCION.md:4": {
+  "huella": "8a7866fcf8952d1f",
+  "archivo": "58/04.m4a"
+ },
+ "59:LECCION.md:1": {
+  "huella": "d6b4932ffe3be5c1",
+  "archivo": "59/01.m4a"
+ },
+ "59:LECCION.md:2": {
+  "huella": "157f8457c88be5b2",
+  "archivo": "59/02.m4a"
+ },
+ "59:LECCION.md:3": {
+  "huella": "97f69526c3008c07",
+  "archivo": "59/03.m4a"
+ },
+ "59:LECCION.md:4": {
+  "huella": "90a455f534108365",
+  "archivo": "59/04.m4a"
+ },
+ "60:LECCION.md:1": {
+  "huella": "25b3e3b2dbe9d39c",
+  "archivo": "60/01.m4a"
+ },
+ "60:LECCION.md:2": {
+  "huella": "52e5dda036068ea1",
+  "archivo": "60/02.m4a"
+ },
+ "60:LECCION.md:3": {
+  "huella": "d5bf2f363d1d1f54",
+  "archivo": "60/03.m4a"
+ },
+ "60:LECCION.md:4": {
+  "huella": "f15b41f403bb67e8",
+  "archivo": "60/04.m4a"
+ },
+ "61:LECCION.md:1": {
+  "huella": "ffef3ae28bbbf3f6",
+  "archivo": "61/01.m4a"
+ },
+ "61:LECCION.md:2": {
+  "huella": "1614c068d40d8f3a",
+  "archivo": "61/02.m4a"
+ },
+ "61:LECCION.md:3": {
+  "huella": "38a0fd2afb27d2ab",
+  "archivo": "61/03.m4a"
+ },
+ "61:LECCION.md:4": {
+  "huella": "9d3f1be36db66cf1",
+  "archivo": "61/04.m4a"
+ },
+ "62:LECCION.md:1": {
+  "huella": "709898c68f43f457",
+  "archivo": "62/01.m4a"
+ },
+ "62:LECCION.md:2": {
+  "huella": "f0b69a0214dd78be",
+  "archivo": "62/02.m4a"
+ },
+ "62:LECCION.md:3": {
+  "huella": "d49ae7d663c9b7c4",
+  "archivo": "62/03.m4a"
+ },
+ "62:LECCION.md:4": {
+  "huella": "df60f457381dafe6",
+  "archivo": "62/04.m4a"
+ },
+ "63:LECCION.md:1": {
+  "huella": "e234708c19f6be18",
+  "archivo": "63/01.m4a"
+ },
+ "63:LECCION.md:2": {
+  "huella": "3a2bb483e9da4bb5",
+  "archivo": "63/02.m4a"
+ },
+ "63:LECCION.md:3": {
+  "huella": "00d3a919bba038b8",
+  "archivo": "63/03.m4a"
+ },
+ "63:LECCION.md:4": {
+  "huella": "183d63be0a6c0fd2",
+  "archivo": "63/04.m4a"
+ },
+ "64:LECCION.md:1": {
+  "huella": "1a9d467dac9a04b7",
+  "archivo": "64/01.m4a"
+ },
+ "64:LECCION.md:2": {
+  "huella": "921adcfdb93fecfe",
+  "archivo": "64/02.m4a"
+ },
+ "64:LECCION.md:3": {
+  "huella": "3ce18ffd61067ce4",
+  "archivo": "64/03.m4a"
+ },
+ "64:LECCION.md:4": {
+  "huella": "89051212e76f612b",
+  "archivo": "64/04.m4a"
+ },
+ "65:LECCION.md:1": {
+  "huella": "1ae0fd378d0016b9",
+  "archivo": "65/01.m4a"
+ },
+ "65:LECCION.md:2": {
+  "huella": "f5b0c63a703a33e3",
+  "archivo": "65/02.m4a"
+ },
+ "65:LECCION.md:3": {
+  "huella": "70333c19bac79ee6",
+  "archivo": "65/03.m4a"
+ },
+ "65:LECCION.md:4": {
+  "huella": "b2d95dd147f2bfa5",
+  "archivo": "65/04.m4a"
+ },
+ "66:LECCION.md:1": {
+  "huella": "a6e8280fa9ef3bb3",
+  "archivo": "66/01.m4a"
+ },
+ "66:LECCION.md:2": {
+  "huella": "efd6a9e589d13012",
+  "archivo": "66/02.m4a"
+ },
+ "66:LECCION.md:3": {
+  "huella": "e8731abfddfb199b",
+  "archivo": "66/03.m4a"
+ },
+ "66:LECCION.md:4": {
+  "huella": "b02f03c8e00b75ce",
+  "archivo": "66/04.m4a"
+ },
+ "67:LECCION.md:1": {
+  "huella": "2fe97d60eccbc25f",
+  "archivo": "67/01.m4a"
+ },
+ "67:LECCION.md:2": {
+  "huella": "25858069c1a84ac5",
+  "archivo": "67/02.m4a"
+ },
+ "67:LECCION.md:3": {
+  "huella": "8d6accb08edb7126",
+  "archivo": "67/03.m4a"
+ },
+ "67:LECCION.md:4": {
+  "huella": "1eb1b8b73e4aa935",
+  "archivo": "67/04.m4a"
+ },
+ "68:LECCION.md:1": {
+  "huella": "617bced3c83edeff",
+  "archivo": "68/01.m4a"
+ },
+ "68:LECCION.md:2": {
+  "huella": "4aa0ba9d4ad6e753",
+  "archivo": "68/02.m4a"
+ },
+ "68:LECCION.md:3": {
+  "huella": "6653ae31e74e9746",
+  "archivo": "68/03.m4a"
+ },
+ "68:LECCION.md:4": {
+  "huella": "18f36b4430a7ecb2",
+  "archivo": "68/04.m4a"
+ },
+ "69:LECCION.md:1": {
+  "huella": "00bf543e637b5a75",
+  "archivo": "69/01.m4a"
+ },
+ "69:LECCION.md:2": {
+  "huella": "07a879f2ce65ba1f",
+  "archivo": "69/02.m4a"
+ },
+ "69:LECCION.md:3": {
+  "huella": "6ff0ebef6ed86e9a",
+  "archivo": "69/03.m4a"
+ },
+ "69:LECCION.md:4": {
+  "huella": "d50bacf25be7b4b6",
+  "archivo": "69/04.m4a"
+ },
+ "70:LECCION.md:1": {
+  "huella": "e8b7334ddc9cb94c",
+  "archivo": "70/01.m4a"
+ },
+ "70:LECCION.md:2": {
+  "huella": "9fe2815917642e42",
+  "archivo": "70/02.m4a"
+ },
+ "70:LECCION.md:3": {
+  "huella": "d76522598b04479b",
+  "archivo": "70/03.m4a"
+ },
+ "70:LECCION.md:4": {
+  "huella": "c55c4e920ad5a8ca",
+  "archivo": "70/04.m4a"
+ },
+ "71:LECCION.md:1": {
+  "huella": "c6472a5bc42fbee2",
+  "archivo": "71/01.m4a"
+ },
+ "71:LECCION.md:2": {
+  "huella": "22ba78e91efa6150",
+  "archivo": "71/02.m4a"
+ },
+ "71:LECCION.md:3": {
+  "huella": "f17e538825ee3906",
+  "archivo": "71/03.m4a"
+ },
+ "71:LECCION.md:4": {
+  "huella": "c42479966fe186c6",
+  "archivo": "71/04.m4a"
+ },
+ "72:LECCION.md:1": {
+  "huella": "083cc48428294bd9",
+  "archivo": "72/01.m4a"
+ },
+ "72:LECCION.md:2": {
+  "huella": "4d617b4c4203f53a",
+  "archivo": "72/02.m4a"
+ },
+ "72:LECCION.md:3": {
+  "huella": "c999235ba5aacde2",
+  "archivo": "72/03.m4a"
+ },
+ "72:LECCION.md:4": {
+  "huella": "6b913e2fe78a02a0",
+  "archivo": "72/04.m4a"
+ },
+ "73:LECCION.md:1": {
+  "huella": "2c64617a3edf3469",
+  "archivo": "73/01.m4a"
+ },
+ "73:LECCION.md:2": {
+  "huella": "fda098e28d6b6989",
+  "archivo": "73/02.m4a"
+ },
+ "73:LECCION.md:3": {
+  "huella": "1c988bb56aac3cf0",
+  "archivo": "73/03.m4a"
+ },
+ "73:LECCION.md:4": {
+  "huella": "fd49a7e12a3a6af0",
+  "archivo": "73/04.m4a"
+ },
+ "74:LECCION.md:1": {
+  "huella": "6814de60e50b4925",
+  "archivo": "74/01.m4a"
+ },
+ "74:LECCION.md:2": {
+  "huella": "70da613b8bd662c7",
+  "archivo": "74/02.m4a"
+ },
+ "74:LECCION.md:3": {
+  "huella": "0ae67bf28c53c820",
+  "archivo": "74/03.m4a"
+ },
+ "74:LECCION.md:4": {
+  "huella": "177b5aeae25a6a4f",
+  "archivo": "74/04.m4a"
+ },
+ "75:LECCION.md:1": {
+  "huella": "a00070b5c548ff63",
+  "archivo": "75/01.m4a"
+ },
+ "75:LECCION.md:2": {
+  "huella": "f4551fb2a510fa73",
+  "archivo": "75/02.m4a"
+ },
+ "75:LECCION.md:3": {
+  "huella": "80cefb8591a431c4",
+  "archivo": "75/03.m4a"
+ },
+ "75:LECCION.md:4": {
+  "huella": "91f09cb55a882cd5",
+  "archivo": "75/04.m4a"
+ },
+ "75:LECCION.md:5": {
+  "huella": "0bc1f7d6b5abaac4",
+  "archivo": "75/05.m4a"
+ },
+ "01:CLASE-GUIADA.md:1": {
+  "huella": "732fdcc32c6c03c2",
+  "archivo": "01/01.m4a"
+ },
+ "01:CLASE-GUIADA.md:2": {
+  "huella": "4059de4b2ae21296",
+  "archivo": "01/02.m4a"
+ },
+ "01:CLASE-GUIADA.md:3": {
+  "huella": "5f76f7fa85338a8f",
+  "archivo": "01/03.m4a"
+ },
+ "01:CLASE-GUIADA.md:4": {
+  "huella": "75f4c90c902e22c3",
+  "archivo": "01/04.m4a"
+ },
+ "01:CLASE-GUIADA.md:5": {
+  "huella": "48ef1821e35d0e27",
+  "archivo": "01/05.m4a"
+ },
+ "01:CLASE-GUIADA.md:6": {
+  "huella": "c1deec6b3c9b311e",
+  "archivo": "01/06.m4a"
+ },
+ "01:CLASE-GUIADA.md:7": {
+  "huella": "877fe8e59a65857b",
+  "archivo": "01/07.m4a"
+ },
+ "02:CLASE-GUIADA.md:1": {
+  "huella": "b065c6ec159b57dd",
+  "archivo": "02/01.m4a"
+ },
+ "02:CLASE-GUIADA.md:2": {
+  "huella": "34b8faee473fe596",
+  "archivo": "02/02.m4a"
+ },
+ "02:CLASE-GUIADA.md:3": {
+  "huella": "63da35d9b82e21e4",
+  "archivo": "02/03.m4a"
+ },
+ "02:CLASE-GUIADA.md:4": {
+  "huella": "2daf39a835d2a50b",
+  "archivo": "02/04.m4a"
+ },
+ "02:CLASE-GUIADA.md:5": {
+  "huella": "1295874a057c6ab1",
+  "archivo": "02/05.m4a"
+ },
+ "02:CLASE-GUIADA.md:6": {
+  "huella": "976b731d62ef5fd3",
+  "archivo": "02/06.m4a"
+ },
+ "02:CLASE-GUIADA.md:7": {
+  "huella": "cab247ca3f7e17ce",
+  "archivo": "02/07.m4a"
+ },
+ "02:CLASE-GUIADA.md:8": {
+  "huella": "35dc65b9bad2ea5c",
+  "archivo": "02/08.m4a"
+ },
+ "02:CLASE-GUIADA.md:9": {
+  "huella": "3b76b7c9065b7189",
+  "archivo": "02/09.m4a"
+ },
+ "02:CLASE-GUIADA.md:10": {
+  "huella": "449c7526610d952d",
+  "archivo": "02/10.m4a"
+ },
+ "02:CLASE-GUIADA.md:11": {
+  "huella": "ec52cd3c47b3eb70",
+  "archivo": "02/11.m4a"
+ },
+ "03:CLASE-GUIADA.md:1": {
+  "huella": "ba0364894521a380",
+  "archivo": "03/01.m4a"
+ },
+ "03:CLASE-GUIADA.md:2": {
+  "huella": "3ea97174ce22635f",
+  "archivo": "03/02.m4a"
+ },
+ "03:CLASE-GUIADA.md:3": {
+  "huella": "18fdcff73f0974c0",
+  "archivo": "03/03.m4a"
+ },
+ "03:CLASE-GUIADA.md:4": {
+  "huella": "04509ae89afc109a",
+  "archivo": "03/04.m4a"
+ },
+ "03:CLASE-GUIADA.md:5": {
+  "huella": "f5cac9c825a4f31c",
+  "archivo": "03/05.m4a"
+ },
+ "03:CLASE-GUIADA.md:6": {
+  "huella": "2a8aebf1544cbcc4",
+  "archivo": "03/06.m4a"
+ },
+ "03:CLASE-GUIADA.md:7": {
+  "huella": "debd185e5e687aca",
+  "archivo": "03/07.m4a"
+ },
+ "03:CLASE-GUIADA.md:8": {
+  "huella": "c71a476259688e0f",
+  "archivo": "03/08.m4a"
+ },
+ "03:CLASE-GUIADA.md:9": {
+  "huella": "a57e19b889e13322",
+  "archivo": "03/09.m4a"
+ },
+ "03:CLASE-GUIADA.md:10": {
+  "huella": "2597b3ff718accc8",
+  "archivo": "03/10.m4a"
+ },
+ "03:CLASE-GUIADA.md:11": {
+  "huella": "81f6faa9e9ca9230",
+  "archivo": "03/11.m4a"
+ },
+ "04:CLASE-GUIADA.md:1": {
+  "huella": "75518650fd38116c",
+  "archivo": "04/01.m4a"
+ },
+ "04:CLASE-GUIADA.md:2": {
+  "huella": "50e66b7b9b5c5147",
+  "archivo": "04/02.m4a"
+ },
+ "04:CLASE-GUIADA.md:3": {
+  "huella": "2fdba46ae4eb36b3",
+  "archivo": "04/03.m4a"
+ },
+ "04:CLASE-GUIADA.md:4": {
+  "huella": "8a5ae9d888f25fd0",
+  "archivo": "04/04.m4a"
+ },
+ "04:CLASE-GUIADA.md:5": {
+  "huella": "1294e7d991cc32f0",
+  "archivo": "04/05.m4a"
+ },
+ "04:CLASE-GUIADA.md:6": {
+  "huella": "afa6a4e58ca747ad",
+  "archivo": "04/06.m4a"
+ },
+ "04:CLASE-GUIADA.md:7": {
+  "huella": "f49ccbb9830eaa78",
+  "archivo": "04/07.m4a"
+ },
+ "04:CLASE-GUIADA.md:8": {
+  "huella": "e7d145b7bc1cf71b",
+  "archivo": "04/08.m4a"
+ },
+ "04:CLASE-GUIADA.md:9": {
+  "huella": "01edb12726f4887a",
+  "archivo": "04/09.m4a"
+ },
+ "04:CLASE-GUIADA.md:10": {
+  "huella": "975becda3f62d41f",
+  "archivo": "04/10.m4a"
+ },
+ "04:CLASE-GUIADA.md:11": {
+  "huella": "5b7cb1142ce5809f",
+  "archivo": "04/11.m4a"
+ },
+ "05:CLASE-GUIADA.md:1": {
+  "huella": "f5607e9442284557",
+  "archivo": "05/01.m4a"
+ },
+ "05:CLASE-GUIADA.md:2": {
+  "huella": "8679bb91a1e18a20",
+  "archivo": "05/02.m4a"
+ },
+ "05:CLASE-GUIADA.md:3": {
+  "huella": "7774cf6ff61c7f64",
+  "archivo": "05/03.m4a"
+ },
+ "05:CLASE-GUIADA.md:4": {
+  "huella": "68ffbf880eb66ae2",
+  "archivo": "05/04.m4a"
+ },
+ "05:CLASE-GUIADA.md:5": {
+  "huella": "7d1844c3347f9dde",
+  "archivo": "05/05.m4a"
+ },
+ "05:CLASE-GUIADA.md:6": {
+  "huella": "4b3e2c930c6bfee8",
+  "archivo": "05/06.m4a"
+ },
+ "05:CLASE-GUIADA.md:7": {
+  "huella": "ff2706e830c7d8eb",
+  "archivo": "05/07.m4a"
+ },
+ "05:CLASE-GUIADA.md:8": {
+  "huella": "1fd7a7add0eb999b",
+  "archivo": "05/08.m4a"
+ },
+ "05:CLASE-GUIADA.md:9": {
+  "huella": "dfcb8359d18b9e6f",
+  "archivo": "05/09.m4a"
+ },
+ "06:CLASE-GUIADA.md:1": {
+  "huella": "483509678f07593e",
+  "archivo": "06/01.m4a"
+ },
+ "06:CLASE-GUIADA.md:2": {
+  "huella": "465eaf7992ad2748",
+  "archivo": "06/02.m4a"
+ },
+ "06:CLASE-GUIADA.md:3": {
+  "huella": "0d0f478dfce49678",
+  "archivo": "06/03.m4a"
+ },
+ "06:CLASE-GUIADA.md:4": {
+  "huella": "24c20e557f577e71",
+  "archivo": "06/04.m4a"
+ },
+ "06:CLASE-GUIADA.md:5": {
+  "huella": "9a093a60bf18453b",
+  "archivo": "06/05.m4a"
+ },
+ "06:CLASE-GUIADA.md:6": {
+  "huella": "59c5c2b6817684fc",
+  "archivo": "06/06.m4a"
+ },
+ "06:CLASE-GUIADA.md:7": {
+  "huella": "61928cacca4ddf97",
+  "archivo": "06/07.m4a"
+ },
+ "06:CLASE-GUIADA.md:8": {
+  "huella": "11c29c22c7d33820",
+  "archivo": "06/08.m4a"
+ },
+ "06:CLASE-GUIADA.md:9": {
+  "huella": "9be84b238c095bfa",
+  "archivo": "06/09.m4a"
+ },
+ "06:CLASE-GUIADA.md:10": {
+  "huella": "51e8d66b3f89f7d0",
+  "archivo": "06/10.m4a"
+ },
+ "06:CLASE-GUIADA.md:11": {
+  "huella": "a02309465835199a",
+  "archivo": "06/11.m4a"
+ },
+ "06:CLASE-GUIADA.md:12": {
+  "huella": "da1be36ddf0d0a55",
+  "archivo": "06/12.m4a"
+ },
+ "07:CLASE-GUIADA.md:1": {
+  "huella": "96bfdee9bb8a70f0",
+  "archivo": "07/01.m4a"
+ },
+ "07:CLASE-GUIADA.md:2": {
+  "huella": "5c582d6b45764a8a",
+  "archivo": "07/02.m4a"
+ },
+ "07:CLASE-GUIADA.md:3": {
+  "huella": "2e4820801cbd2136",
+  "archivo": "07/03.m4a"
+ },
+ "07:CLASE-GUIADA.md:4": {
+  "huella": "3aa7e8150b7a7711",
+  "archivo": "07/04.m4a"
+ },
+ "07:CLASE-GUIADA.md:5": {
+  "huella": "6cb1fa085b63782d",
+  "archivo": "07/05.m4a"
+ },
+ "07:CLASE-GUIADA.md:6": {
+  "huella": "d9d76579870a506a",
+  "archivo": "07/06.m4a"
+ },
+ "07:CLASE-GUIADA.md:7": {
+  "huella": "cd6e815fb5ea0091",
+  "archivo": "07/07.m4a"
+ },
+ "07:CLASE-GUIADA.md:8": {
+  "huella": "d2fbeb3643488976",
+  "archivo": "07/08.m4a"
+ },
+ "07:CLASE-GUIADA.md:9": {
+  "huella": "33de9a8a8447aaff",
+  "archivo": "07/09.m4a"
+ },
+ "08:CLASE-GUIADA.md:1": {
+  "huella": "b026413d768f6fb2",
+  "archivo": "08/01.m4a"
+ },
+ "08:CLASE-GUIADA.md:2": {
+  "huella": "cd50783e145d4ba1",
+  "archivo": "08/02.m4a"
+ },
+ "08:CLASE-GUIADA.md:3": {
+  "huella": "35f18f04995872b0",
+  "archivo": "08/03.m4a"
+ },
+ "08:CLASE-GUIADA.md:4": {
+  "huella": "7c3cf1b79c2c4263",
+  "archivo": "08/04.m4a"
+ },
+ "08:CLASE-GUIADA.md:5": {
+  "huella": "a3968793ec9744c4",
+  "archivo": "08/05.m4a"
+ },
+ "08:CLASE-GUIADA.md:6": {
+  "huella": "ad5599caeeacce86",
+  "archivo": "08/06.m4a"
+ },
+ "08:CLASE-GUIADA.md:7": {
+  "huella": "ff586cd2e9815083",
+  "archivo": "08/07.m4a"
+ },
+ "08:CLASE-GUIADA.md:8": {
+  "huella": "bf32ee9190ccf719",
+  "archivo": "08/08.m4a"
+ },
+ "08:CLASE-GUIADA.md:9": {
+  "huella": "0a8b7939d2cbd2fe",
+  "archivo": "08/09.m4a"
+ },
+ "09:CLASE-GUIADA.md:1": {
+  "huella": "5ec9c3fe8ff1499c",
+  "archivo": "09/01.m4a"
+ },
+ "09:CLASE-GUIADA.md:2": {
+  "huella": "256fe6e38c445e70",
+  "archivo": "09/02.m4a"
+ },
+ "09:CLASE-GUIADA.md:3": {
+  "huella": "72dbc4bc9084ccba",
+  "archivo": "09/03.m4a"
+ },
+ "09:CLASE-GUIADA.md:4": {
+  "huella": "6bdb0ea0e7b9596d",
+  "archivo": "09/04.m4a"
+ },
+ "09:CLASE-GUIADA.md:5": {
+  "huella": "e56b681633e90d26",
+  "archivo": "09/05.m4a"
+ },
+ "09:CLASE-GUIADA.md:6": {
+  "huella": "e6e1a05e4447547f",
+  "archivo": "09/06.m4a"
+ },
+ "09:CLASE-GUIADA.md:7": {
+  "huella": "cebdfb5a28596754",
+  "archivo": "09/07.m4a"
+ },
+ "09:CLASE-GUIADA.md:8": {
+  "huella": "f560c66b960fb241",
+  "archivo": "09/08.m4a"
+ },
+ "09:CLASE-GUIADA.md:9": {
+  "huella": "5e07c99881a152be",
+  "archivo": "09/09.m4a"
+ },
+ "09:CLASE-GUIADA.md:10": {
+  "huella": "511a9d4b89ad31f4",
+  "archivo": "09/10.m4a"
+ },
+ "09:CLASE-GUIADA.md:11": {
+  "huella": "688839da95cde5c4",
+  "archivo": "09/11.m4a"
+ },
+ "76:LECCION.md:1": {
+  "huella": "4ebf6684a7f7849d",
+  "archivo": "76/01.m4a"
+ },
+ "76:LECCION.md:2": {
+  "huella": "c1d47acc9ecdc278",
+  "archivo": "76/02.m4a"
+ },
+ "76:LECCION.md:3": {
+  "huella": "6a4e581efab728f8",
+  "archivo": "76/03.m4a"
+ },
+ "76:LECCION.md:4": {
+  "huella": "d591a981d2cd5174",
+  "archivo": "76/04.m4a"
+ },
+ "76:LECCION.md:5": {
+  "huella": "7de1f04f76627fcb",
+  "archivo": "76/05.m4a"
+ },
+ "18:CLASE-GUIADA.md:14": {
+  "huella": "4c85113b39cf16ec",
+  "archivo": "18/14.m4a"
+ },
+ "77:LECCION.md:1": {
+  "huella": "5e6ea23541d00ab1",
+  "archivo": "77/01.m4a"
+ },
+ "77:LECCION.md:2": {
+  "huella": "ca59898d3c210ce1",
+  "archivo": "77/02.m4a"
+ },
+ "77:LECCION.md:3": {
+  "huella": "638323376b16249f",
+  "archivo": "77/03.m4a"
+ },
+ "77:LECCION.md:4": {
+  "huella": "6b0dafc72152f75a",
+  "archivo": "77/04.m4a"
+ },
+ "77:LECCION.md:5": {
+  "huella": "324fc3396972b5f4",
+  "archivo": "77/05.m4a"
+ },
+ "77:LECCION.md:6": {
+  "huella": "63ce2bc87e3550ac",
+  "archivo": "77/06.m4a"
+ },
+ "77:LECCION.md:7": {
+  "huella": "9f1d4585ab800363",
+  "archivo": "77/07.m4a"
+ },
+ "77:LECCION.md:8": {
+  "huella": "1a4ca65f70a5724a",
+  "archivo": "77/08.m4a"
+ },
+ "77:LECCION.md:9": {
+  "huella": "6a8ecb40feaf82f3",
+  "archivo": "77/09.m4a"
+ },
+ "77:LECCION.md:10": {
+  "huella": "050fc52c48c299fa",
+  "archivo": "77/10.m4a"
+ },
+ "77:LECCION.md:11": {
+  "huella": "49f250f9fb8b6c23",
+  "archivo": "77/11.m4a"
+ },
+ "77:LECCION.md:12": {
+  "huella": "68041f043315d8dc",
+  "archivo": "77/12.m4a"
+ },
+ "78:LECCION.md:1": {
+  "huella": "fc2d05260fa7c48b",
+  "archivo": "78/01.m4a"
+ },
+ "78:LECCION.md:2": {
+  "huella": "49a9b9addaa23c61",
+  "archivo": "78/02.m4a"
+ },
+ "78:LECCION.md:3": {
+  "huella": "d4257928660c2808",
+  "archivo": "78/03.m4a"
+ },
+ "78:LECCION.md:4": {
+  "huella": "31ec74e9e2cc43f7",
+  "archivo": "78/04.m4a"
+ },
+ "78:LECCION.md:5": {
+  "huella": "376d4085e049ebfe",
+  "archivo": "78/05.m4a"
+ },
+ "78:LECCION.md:6": {
+  "huella": "48c45787dc19b395",
+  "archivo": "78/06.m4a"
+ },
+ "78:LECCION.md:7": {
+  "huella": "87f065f22e8b06f7",
+  "archivo": "78/07.m4a"
+ },
+ "78:LECCION.md:8": {
+  "huella": "ac9740bee49ead84",
+  "archivo": "78/08.m4a"
+ },
+ "78:LECCION.md:9": {
+  "huella": "770204f16e73316f",
+  "archivo": "78/09.m4a"
+ },
+ "78:LECCION.md:10": {
+  "huella": "7d5591ed07ccd21e",
+  "archivo": "78/10.m4a"
+ },
+ "78:LECCION.md:11": {
+  "huella": "ec8241e0561f0e06",
+  "archivo": "78/11.m4a"
+ },
+ "78:LECCION.md:12": {
+  "huella": "9fa1e781f1b44ed3",
+  "archivo": "78/12.m4a"
+ },
+ "78:LECCION.md:13": {
+  "huella": "04403d83f3a68444",
+  "archivo": "78/13.m4a"
+ },
+ "78:LECCION.md:14": {
+  "huella": "0f09c422db7aad53",
+  "archivo": "78/14.m4a"
+ },
+ "78:LECCION.md:15": {
+  "huella": "1bae2f50b437cbce",
+  "archivo": "78/15.m4a"
+ },
+ "79:LECCION.md:1": {
+  "huella": "4740e80e733d517d",
+  "archivo": "79/01.m4a"
+ },
+ "79:LECCION.md:2": {
+  "huella": "320c95b98c057568",
+  "archivo": "79/02.m4a"
+ },
+ "79:LECCION.md:3": {
+  "huella": "e72b732a798dbca9",
+  "archivo": "79/03.m4a"
+ },
+ "79:LECCION.md:4": {
+  "huella": "41f6bc5458867801",
+  "archivo": "79/04.m4a"
+ },
+ "79:LECCION.md:5": {
+  "huella": "4bfd58d0fc84479c",
+  "archivo": "79/05.m4a"
+ },
+ "79:LECCION.md:6": {
+  "huella": "5f3c4d384fc67ec8",
+  "archivo": "79/06.m4a"
+ },
+ "79:LECCION.md:7": {
+  "huella": "36a8a5878176d621",
+  "archivo": "79/07.m4a"
+ },
+ "79:LECCION.md:8": {
+  "huella": "7499de0616b677ef",
+  "archivo": "79/08.m4a"
+ },
+ "79:LECCION.md:9": {
+  "huella": "7232c2749a52eb8d",
+  "archivo": "79/09.m4a"
+ },
+ "79:LECCION.md:10": {
+  "huella": "19e4341f3e25e7fb",
+  "archivo": "79/10.m4a"
+ },
+ "79:LECCION.md:11": {
+  "huella": "3bdb1df3e65095e7",
+  "archivo": "79/11.m4a"
+ },
+ "80:LECCION.md:1": {
+  "huella": "3443135e0af7e1dd",
+  "archivo": "80/01.m4a"
+ },
+ "80:LECCION.md:2": {
+  "huella": "b0d69408b7dc01fd",
+  "archivo": "80/02.m4a"
+ },
+ "80:LECCION.md:3": {
+  "huella": "f54e0da5cf849eb2",
+  "archivo": "80/03.m4a"
+ },
+ "80:LECCION.md:4": {
+  "huella": "1b031014b57ca253",
+  "archivo": "80/04.m4a"
+ },
+ "80:LECCION.md:5": {
+  "huella": "84fc280da9a41d3f",
+  "archivo": "80/05.m4a"
+ },
+ "80:LECCION.md:6": {
+  "huella": "6a72281ec1c1957e",
+  "archivo": "80/06.m4a"
+ },
+ "81:LECCION.md:1": {
+  "huella": "ebfcbb6b97a9e87e",
+  "archivo": "81/01.m4a"
+ },
+ "81:LECCION.md:2": {
+  "huella": "c916a5fa81d3730d",
+  "archivo": "81/02.m4a"
+ },
+ "81:LECCION.md:3": {
+  "huella": "424b66da6858e3ac",
+  "archivo": "81/03.m4a"
+ },
+ "81:LECCION.md:4": {
+  "huella": "4dd140597b8f002f",
+  "archivo": "81/04.m4a"
+ },
+ "81:LECCION.md:5": {
+  "huella": "f603e9953e0e1246",
+  "archivo": "81/05.m4a"
+ },
+ "82:LECCION.md:1": {
+  "huella": "a6c5ccb4eb1be3c3",
+  "archivo": "82/01.m4a"
+ },
+ "82:LECCION.md:2": {
+  "huella": "781f1f1c51dfe51a",
+  "archivo": "82/02.m4a"
+ },
+ "82:LECCION.md:3": {
+  "huella": "590a483d1ae45e8b",
+  "archivo": "82/03.m4a"
+ },
+ "82:LECCION.md:4": {
+  "huella": "93712f9a775eb58e",
+  "archivo": "82/04.m4a"
+ },
+ "82:LECCION.md:5": {
+  "huella": "7eeee5bdeb260a90",
+  "archivo": "82/05.m4a"
+ },
+ "83:LECCION.md:1": {
+  "huella": "21f9ac175536f390",
+  "archivo": "83/01.m4a"
+ },
+ "83:LECCION.md:2": {
+  "huella": "1856172ad2608965",
+  "archivo": "83/02.m4a"
+ },
+ "83:LECCION.md:3": {
+  "huella": "a02859e356e6ada0",
+  "archivo": "83/03.m4a"
+ },
+ "83:LECCION.md:4": {
+  "huella": "302431123bfde4ab",
+  "archivo": "83/04.m4a"
+ },
+ "83:LECCION.md:5": {
+  "huella": "a9ee5397904d1511",
+  "archivo": "83/05.m4a"
+ },
+ "84:LECCION.md:1": {
+  "huella": "ec289e7b96f5bcb6",
+  "archivo": "84/01.m4a"
+ },
+ "84:LECCION.md:2": {
+  "huella": "f9d7cba96cc7ae0d",
+  "archivo": "84/02.m4a"
+ },
+ "84:LECCION.md:3": {
+  "huella": "30eb8238f9276b91",
+  "archivo": "84/03.m4a"
+ },
+ "84:LECCION.md:4": {
+  "huella": "9c68d91a4b89232f",
+  "archivo": "84/04.m4a"
+ },
+ "84:LECCION.md:5": {
+  "huella": "5adabd6d23d3fbda",
+  "archivo": "84/05.m4a"
+ },
+ "84:LECCION.md:6": {
+  "huella": "489f9f7a70ad563a",
+  "archivo": "84/06.m4a"
+ },
+ "84:LECCION.md:7": {
+  "huella": "164814eb1a55fd36",
+  "archivo": "84/07.m4a"
+ },
+ "31:LECCION.md:6": {
+  "huella": "b7c68a907ecb4f3e",
+  "archivo": "31/06.m4a"
+ },
+ "85:LECCION.md:1": {
+  "huella": "f1cf8293d5c8b250",
+  "archivo": "85/01.m4a"
+ },
+ "85:LECCION.md:2": {
+  "huella": "3638431c4f17b52c",
+  "archivo": "85/02.m4a"
+ },
+ "85:LECCION.md:3": {
+  "huella": "693105a05078e805",
+  "archivo": "85/03.m4a"
+ },
+ "85:LECCION.md:4": {
+  "huella": "36fe4a1f4040c93a",
+  "archivo": "85/04.m4a"
+ },
+ "85:LECCION.md:5": {
+  "huella": "d2b225484d6fdfb3",
+  "archivo": "85/05.m4a"
+ },
+ "85:LECCION.md:6": {
+  "huella": "249c8d8b81f68af5",
+  "archivo": "85/06.m4a"
+ },
+ "85:LECCION.md:7": {
+  "huella": "8f7a3400baad8efd",
+  "archivo": "85/07.m4a"
+ },
+ "86:LECCION.md:1": {
+  "huella": "f209235e884d8445",
+  "archivo": "86/01.m4a"
+ },
+ "86:LECCION.md:2": {
+  "huella": "ba70245066f0604e",
+  "archivo": "86/02.m4a"
+ },
+ "86:LECCION.md:3": {
+  "huella": "a049b5ed0ad87537",
+  "archivo": "86/03.m4a"
+ },
+ "86:LECCION.md:4": {
+  "huella": "77b756ca7a5c21dc",
+  "archivo": "86/04.m4a"
+ },
+ "86:LECCION.md:5": {
+  "huella": "f5d5536defb32901",
+  "archivo": "86/05.m4a"
+ },
+ "86:LECCION.md:6": {
+  "huella": "8ad8338627ebade0",
+  "archivo": "86/06.m4a"
+ },
+ "86:LECCION.md:7": {
+  "huella": "32b6536201e47610",
+  "archivo": "86/07.m4a"
+ },
+ "86:LECCION.md:8": {
+  "huella": "0e12fd042db4cb1d",
+  "archivo": "86/08.m4a"
+ },
+ "87:LECCION.md:1": {
+  "huella": "82f0c79e5e52d5d7",
+  "archivo": "87/01.m4a"
+ },
+ "87:LECCION.md:2": {
+  "huella": "010af1bbda3f5c87",
+  "archivo": "87/02.m4a"
+ },
+ "87:LECCION.md:3": {
+  "huella": "723ab69f080d3fe8",
+  "archivo": "87/03.m4a"
+ },
+ "87:LECCION.md:4": {
+  "huella": "06fa09083b2fd8fe",
+  "archivo": "87/04.m4a"
+ },
+ "87:LECCION.md:5": {
+  "huella": "59d9abcaf60368c8",
+  "archivo": "87/05.m4a"
+ },
+ "87:LECCION.md:6": {
+  "huella": "d5834a0bacd09a4d",
+  "archivo": "87/06.m4a"
+ },
+ "87:LECCION.md:7": {
+  "huella": "a7e5efba24fe3194",
+  "archivo": "87/07.m4a"
+ },
+ "88:LECCION.md:1": {
+  "huella": "efafa9c811f7a828",
+  "archivo": "88/01.m4a"
+ },
+ "88:LECCION.md:2": {
+  "huella": "7940180e38874fb6",
+  "archivo": "88/02.m4a"
+ },
+ "88:LECCION.md:3": {
+  "huella": "f8a456baee2bb396",
+  "archivo": "88/03.m4a"
+ },
+ "88:LECCION.md:4": {
+  "huella": "163a613b0fc0b92c",
+  "archivo": "88/04.m4a"
+ },
+ "88:LECCION.md:5": {
+  "huella": "27eefdc1bcf6bea0",
+  "archivo": "88/05.m4a"
+ },
+ "88:LECCION.md:6": {
+  "huella": "dea481ac2fdbfbeb",
+  "archivo": "88/06.m4a"
+ },
+ "88:LECCION.md:7": {
+  "huella": "6fd812a1a3856a50",
+  "archivo": "88/07.m4a"
+ },
+ "89:LECCION.md:1": {
+  "huella": "fd034f4008e943a6",
+  "archivo": "89/01.m4a"
+ },
+ "89:LECCION.md:2": {
+  "huella": "a3e61a8a3f99d718",
+  "archivo": "89/02.m4a"
+ },
+ "89:LECCION.md:3": {
+  "huella": "0a41c71b1ae1a35c",
+  "archivo": "89/03.m4a"
+ },
+ "89:LECCION.md:4": {
+  "huella": "e5506bee6f74a629",
+  "archivo": "89/04.m4a"
+ },
+ "89:LECCION.md:5": {
+  "huella": "b96b5ad20107d246",
+  "archivo": "89/05.m4a"
+ },
+ "89:LECCION.md:6": {
+  "huella": "bac79503b304b95b",
+  "archivo": "89/06.m4a"
+ },
+ "89:LECCION.md:7": {
+  "huella": "05c2c1e54abb7afe",
+  "archivo": "89/07.m4a"
+ },
+ "90:LECCION.md:1": {
+  "huella": "71627778e1e8337c",
+  "archivo": "90/01.m4a"
+ },
+ "90:LECCION.md:2": {
+  "huella": "90792e2fdae56735",
+  "archivo": "90/02.m4a"
+ },
+ "90:LECCION.md:3": {
+  "huella": "991d59da693423af",
+  "archivo": "90/03.m4a"
+ },
+ "90:LECCION.md:4": {
+  "huella": "19cfbd415ab939ce",
+  "archivo": "90/04.m4a"
+ },
+ "90:LECCION.md:5": {
+  "huella": "3bc532152f66714f",
+  "archivo": "90/05.m4a"
+ },
+ "90:LECCION.md:6": {
+  "huella": "98d2c72fd561c52c",
+  "archivo": "90/06.m4a"
+ },
+ "90:LECCION.md:7": {
+  "huella": "9e9b8dcdf7cf1896",
+  "archivo": "90/07.m4a"
+ },
+ "91:LECCION.md:1": {
+  "huella": "ee14c279c199d68e",
+  "archivo": "91/01.m4a"
+ },
+ "91:LECCION.md:2": {
+  "huella": "70d65bff1663d104",
+  "archivo": "91/02.m4a"
+ },
+ "91:LECCION.md:3": {
+  "huella": "dc427122791592aa",
+  "archivo": "91/03.m4a"
+ },
+ "91:LECCION.md:4": {
+  "huella": "6490e22d93d22a45",
+  "archivo": "91/04.m4a"
+ },
+ "91:LECCION.md:5": {
+  "huella": "f8829cbfa310f0a9",
+  "archivo": "91/05.m4a"
+ },
+ "91:LECCION.md:6": {
+  "huella": "5c1c419c1936cc98",
+  "archivo": "91/06.m4a"
+ },
+ "91:LECCION.md:7": {
+  "huella": "53419d7b7c34c2b9",
+  "archivo": "91/07.m4a"
+ },
+ "92:LECCION.md:1": {
+  "huella": "02c49372e6038138",
+  "archivo": "92/01.m4a"
+ },
+ "92:LECCION.md:2": {
+  "huella": "96cd9caa69a9c951",
+  "archivo": "92/02.m4a"
+ },
+ "92:LECCION.md:3": {
+  "huella": "6dc03d0e3cb5f1d5",
+  "archivo": "92/03.m4a"
+ },
+ "92:LECCION.md:4": {
+  "huella": "520fb430afb9c123",
+  "archivo": "92/04.m4a"
+ },
+ "92:LECCION.md:5": {
+  "huella": "88637b3901c87793",
+  "archivo": "92/05.m4a"
+ },
+ "92:LECCION.md:6": {
+  "huella": "25638720a5eb1f28",
+  "archivo": "92/06.m4a"
+ },
+ "92:LECCION.md:7": {
+  "huella": "e3858c43c882e348",
+  "archivo": "92/07.m4a"
+ },
+ "93:LECCION.md:1": {
+  "huella": "ed621029dfe34b20",
+  "archivo": "93/01.m4a"
+ },
+ "93:LECCION.md:2": {
+  "huella": "b23cf2ed1189c7e1",
+  "archivo": "93/02.m4a"
+ },
+ "93:LECCION.md:3": {
+  "huella": "e6cd3ac3e459e056",
+  "archivo": "93/03.m4a"
+ },
+ "93:LECCION.md:4": {
+  "huella": "a1daabbcfdc40fdd",
+  "archivo": "93/04.m4a"
+ },
+ "93:LECCION.md:5": {
+  "huella": "9ed5e66e9f80e434",
+  "archivo": "93/05.m4a"
+ },
+ "93:LECCION.md:6": {
+  "huella": "e2d9cfeca70aaaa5",
+  "archivo": "93/06.m4a"
+ },
+ "93:LECCION.md:7": {
+  "huella": "a8de275b510b2251",
+  "archivo": "93/07.m4a"
+ },
+ "41:LECCION.md:6": {
+  "huella": "1ba612c6763dad8e",
+  "archivo": "41/06.m4a"
+ },
+ "51:LECCION.md:6": {
+  "huella": "638f3b257cf3101d",
+  "archivo": "51/06.m4a"
+ },
+ "56:LECCION.md:5": {
+  "huella": "a9c40a9161446d86",
+  "archivo": "56/05.m4a"
+ },
+ "66:LECCION.md:5": {
+  "huella": "830b195083f2d8bc",
+  "archivo": "66/05.m4a"
+ },
+ "73:LECCION.md:5": {
+  "huella": "a6919bfb1e467340",
+  "archivo": "73/05.m4a"
+ },
+ "94:LECCION.md:1": {
+  "huella": "da71f230a23a3cac",
+  "archivo": "94/01.m4a"
+ },
+ "94:LECCION.md:2": {
+  "huella": "8f9b76047e53d18f",
+  "archivo": "94/02.m4a"
+ },
+ "94:LECCION.md:3": {
+  "huella": "3982e9ab45725c05",
+  "archivo": "94/03.m4a"
+ },
+ "94:LECCION.md:4": {
+  "huella": "03faa006054c90ce",
+  "archivo": "94/04.m4a"
+ },
+ "94:LECCION.md:5": {
+  "huella": "61be1acc1a46dbeb",
+  "archivo": "94/05.m4a"
+ },
+ "94:LECCION.md:6": {
+  "huella": "bf9a17a1c0f069d1",
+  "archivo": "94/06.m4a"
+ },
+ "95:LECCION.md:1": {
+  "huella": "4d99376a2fc75e96",
+  "archivo": "95/01.m4a"
+ },
+ "95:LECCION.md:2": {
+  "huella": "1a8a49c285dce612",
+  "archivo": "95/02.m4a"
+ },
+ "95:LECCION.md:3": {
+  "huella": "609ea6c62e696107",
+  "archivo": "95/03.m4a"
+ },
+ "95:LECCION.md:4": {
+  "huella": "af9c745764246366",
+  "archivo": "95/04.m4a"
+ },
+ "95:LECCION.md:5": {
+  "huella": "2d5efce47b7ea89a",
+  "archivo": "95/05.m4a"
+ },
+ "95:LECCION.md:6": {
+  "huella": "31cb378df588f84e",
+  "archivo": "95/06.m4a"
+ },
+ "96:LECCION.md:1": {
+  "huella": "82687a109e508f2e",
+  "archivo": "96/01.m4a"
+ },
+ "96:LECCION.md:2": {
+  "huella": "bcb845ee1c72e4cd",
+  "archivo": "96/02.m4a"
+ },
+ "96:LECCION.md:3": {
+  "huella": "b27bf9f02ca513fc",
+  "archivo": "96/03.m4a"
+ },
+ "96:LECCION.md:4": {
+  "huella": "61f81948d8f2fe9a",
+  "archivo": "96/04.m4a"
+ },
+ "96:LECCION.md:5": {
+  "huella": "57a1419566bf4e97",
+  "archivo": "96/05.m4a"
+ },
+ "96:LECCION.md:6": {
+  "huella": "f7af3b0d29ff4f09",
+  "archivo": "96/06.m4a"
+ },
+ "97:LECCION.md:1": {
+  "huella": "1e5ebce853f8660e",
+  "archivo": "97/01.m4a"
+ },
+ "97:LECCION.md:2": {
+  "huella": "8a0d83610d3354cc",
+  "archivo": "97/02.m4a"
+ },
+ "97:LECCION.md:3": {
+  "huella": "cdf95f7764de3aaa",
+  "archivo": "97/03.m4a"
+ },
+ "97:LECCION.md:4": {
+  "huella": "070fbcf34d01fcc9",
+  "archivo": "97/04.m4a"
+ },
+ "98:LECCION.md:1": {
+  "huella": "925f62af6859704c",
+  "archivo": "98/01.m4a"
+ },
+ "98:LECCION.md:2": {
+  "huella": "3f59f99c8c0ca180",
+  "archivo": "98/02.m4a"
+ },
+ "98:LECCION.md:3": {
+  "huella": "61571fc4b6a1d34c",
+  "archivo": "98/03.m4a"
+ },
+ "98:LECCION.md:4": {
+  "huella": "7481443566c42568",
+  "archivo": "98/04.m4a"
+ },
+ "99:LECCION.md:1": {
+  "huella": "284804d7d04ce7b0",
+  "archivo": "99/01.m4a"
+ },
+ "99:LECCION.md:2": {
+  "huella": "08b8e86ee5b6922f",
+  "archivo": "99/02.m4a"
+ },
+ "99:LECCION.md:3": {
+  "huella": "f893fdb5cc3b7a6a",
+  "archivo": "99/03.m4a"
+ },
+ "99:LECCION.md:4": {
+  "huella": "d3a370cbac7375c1",
+  "archivo": "99/04.m4a"
+ },
+ "100:LECCION.md:1": {
+  "huella": "67c7bf03a3d7d25f",
+  "archivo": "100/01.m4a"
+ },
+ "100:LECCION.md:2": {
+  "huella": "a5ee119cd20a707a",
+  "archivo": "100/02.m4a"
+ },
+ "100:LECCION.md:3": {
+  "huella": "3041524923b6c2e4",
+  "archivo": "100/03.m4a"
+ },
+ "100:LECCION.md:4": {
+  "huella": "cafde065c6ed8be9",
+  "archivo": "100/04.m4a"
+ },
+ "101:LECCION.md:1": {
+  "huella": "dd355b2226189a23",
+  "archivo": "101/01.m4a"
+ },
+ "101:LECCION.md:2": {
+  "huella": "06ee713318ea7618",
+  "archivo": "101/02.m4a"
+ },
+ "101:LECCION.md:3": {
+  "huella": "9fa7dce2162459c3",
+  "archivo": "101/03.m4a"
+ },
+ "101:LECCION.md:4": {
+  "huella": "225800177c1bf7a5",
+  "archivo": "101/04.m4a"
+ },
+ "102:LECCION.md:1": {
+  "huella": "b8cfc818915492d6",
+  "archivo": "102/01.m4a"
+ },
+ "102:LECCION.md:2": {
+  "huella": "fab1eed8faded3f1",
+  "archivo": "102/02.m4a"
+ },
+ "102:LECCION.md:3": {
+  "huella": "d3cd1d92c6fab474",
+  "archivo": "102/03.m4a"
+ },
+ "102:LECCION.md:4": {
+  "huella": "5dbe8f9030355faf",
+  "archivo": "102/04.m4a"
+ },
+ "103:LECCION.md:1": {
+  "huella": "6a61074e34c63728",
+  "archivo": "103/01.m4a"
+ },
+ "103:LECCION.md:2": {
+  "huella": "fb0c4cc6456fea1f",
+  "archivo": "103/02.m4a"
+ },
+ "103:LECCION.md:3": {
+  "huella": "d4dc1022f962232d",
+  "archivo": "103/03.m4a"
+ },
+ "103:LECCION.md:4": {
+  "huella": "092806b4c80c3061",
+  "archivo": "103/04.m4a"
+ },
+ "104:LECCION.md:1": {
+  "huella": "3915b9ac6e32ad79",
+  "archivo": "104/01.m4a"
+ },
+ "104:LECCION.md:2": {
+  "huella": "50f2e91df9d7cd5a",
+  "archivo": "104/02.m4a"
+ },
+ "104:LECCION.md:3": {
+  "huella": "735165de809507a7",
+  "archivo": "104/03.m4a"
+ },
+ "104:LECCION.md:4": {
+  "huella": "6adc8a48af8c8a74",
+  "archivo": "104/04.m4a"
+ },
+ "78:LECCION.md:16": {
+  "huella": "3186d067d7e354b9",
+  "archivo": "78/16.m4a"
+ },
+ "105:LECCION.md:1": {
+  "huella": "4e7b4f26416442f8",
+  "archivo": "105/01.m4a"
+ },
+ "105:LECCION.md:2": {
+  "huella": "5c85dc56268aaf19",
+  "archivo": "105/02.m4a"
+ },
+ "105:LECCION.md:3": {
+  "huella": "21c47fa8432b0ff1",
+  "archivo": "105/03.m4a"
+ },
+ "105:LECCION.md:4": {
+  "huella": "55cf0c1b3465bbb0",
+  "archivo": "105/04.m4a"
+ },
+ "106:LECCION.md:1": {
+  "huella": "1f96e11d853b35bf",
+  "archivo": "106/01.m4a"
+ },
+ "106:LECCION.md:2": {
+  "huella": "9bc5e58d13351e0d",
+  "archivo": "106/02.m4a"
+ },
+ "106:LECCION.md:3": {
+  "huella": "f45e75996a125cbd",
+  "archivo": "106/03.m4a"
+ },
+ "106:LECCION.md:4": {
+  "huella": "386e87def9e29d33",
+  "archivo": "106/04.m4a"
+ },
+ "106:LECCION.md:5": {
+  "huella": "b9b88e6d4c04048b",
+  "archivo": "106/05.m4a"
+ },
+ "107:LECCION.md:1": {
+  "huella": "57e4f8bb79d66a38",
+  "archivo": "107/01.m4a"
+ },
+ "107:LECCION.md:2": {
+  "huella": "62936919ff28c7b1",
+  "archivo": "107/02.m4a"
+ },
+ "107:LECCION.md:3": {
+  "huella": "6732bf3e52e46410",
+  "archivo": "107/03.m4a"
+ },
+ "107:LECCION.md:4": {
+  "huella": "ec98eeb296fb7031",
+  "archivo": "107/04.m4a"
+ },
+ "107:LECCION.md:5": {
+  "huella": "e8114b233d65ad4c",
+  "archivo": "107/05.m4a"
+ },
+ "108:LECCION.md:1": {
+  "huella": "01ca5cbf8c58b8e4",
+  "archivo": "108/01.m4a"
+ },
+ "108:LECCION.md:2": {
+  "huella": "17f8f135a996c8e5",
+  "archivo": "108/02.m4a"
+ },
+ "108:LECCION.md:3": {
+  "huella": "0028cfe4be525c0a",
+  "archivo": "108/03.m4a"
+ },
+ "108:LECCION.md:4": {
+  "huella": "b1eae45899340296",
+  "archivo": "108/04.m4a"
+ },
+ "108:LECCION.md:5": {
+  "huella": "a5950a3e04cb7c51",
+  "archivo": "108/05.m4a"
+ },
+ "108:LECCION.md:6": {
+  "huella": "fa5aa09e7e840442",
+  "archivo": "108/06.m4a"
+ },
+ "109:LECCION.md:1": {
+  "huella": "5fe8d4f46483813c",
+  "archivo": "109/01.m4a"
+ },
+ "109:LECCION.md:2": {
+  "huella": "2b7dd23702d42294",
+  "archivo": "109/02.m4a"
+ },
+ "109:LECCION.md:3": {
+  "huella": "5f38badc15716ca8",
+  "archivo": "109/03.m4a"
+ },
+ "109:LECCION.md:4": {
+  "huella": "134ef6fc5cdd5c6b",
+  "archivo": "109/04.m4a"
+ },
+ "109:LECCION.md:5": {
+  "huella": "3272ed6de1957552",
+  "archivo": "109/05.m4a"
+ },
+ "109:LECCION.md:6": {
+  "huella": "49b1734e9346d7c7",
+  "archivo": "109/06.m4a"
+ },
+ "110:LECCION.md:1": {
+  "huella": "6d9fa94cb315919e",
+  "archivo": "110/01.m4a"
+ },
+ "110:LECCION.md:2": {
+  "huella": "6351de6855c178a0",
+  "archivo": "110/02.m4a"
+ },
+ "110:LECCION.md:3": {
+  "huella": "762113ae4b80a9a1",
+  "archivo": "110/03.m4a"
+ },
+ "110:LECCION.md:4": {
+  "huella": "e269080e2ac9b3cb",
+  "archivo": "110/04.m4a"
+ },
+ "110:LECCION.md:5": {
+  "huella": "d6183a0357553236",
+  "archivo": "110/05.m4a"
+ },
+ "111:LECCION.md:1": {
+  "huella": "870e395f688a90bd",
+  "archivo": "111/01.m4a"
+ },
+ "111:LECCION.md:2": {
+  "huella": "588b141d294b0825",
+  "archivo": "111/02.m4a"
+ },
+ "111:LECCION.md:3": {
+  "huella": "5d5acdc48025b5ad",
+  "archivo": "111/03.m4a"
+ },
+ "111:LECCION.md:4": {
+  "huella": "bbfaabe1673fd68a",
+  "archivo": "111/04.m4a"
+ },
+ "111:LECCION.md:5": {
+  "huella": "7a75e4302e44baba",
+  "archivo": "111/05.m4a"
+ },
+ "111:LECCION.md:6": {
+  "huella": "4311fef8f8cc6c03",
+  "archivo": "111/06.m4a"
+ },
+ "112:LECCION.md:1": {
+  "huella": "d033b2530a5822b0",
+  "archivo": "112/01.m4a"
+ },
+ "112:LECCION.md:2": {
+  "huella": "c229507cb282e110",
+  "archivo": "112/02.m4a"
+ },
+ "112:LECCION.md:3": {
+  "huella": "53481e0ac5d9155a",
+  "archivo": "112/03.m4a"
+ },
+ "112:LECCION.md:4": {
+  "huella": "4bf0da5f0cb597a3",
+  "archivo": "112/04.m4a"
+ },
+ "112:LECCION.md:5": {
+  "huella": "a44d8b77c6c962e1",
+  "archivo": "112/05.m4a"
+ },
+ "112:LECCION.md:6": {
+  "huella": "9ba0c76053e8f9ae",
+  "archivo": "112/06.m4a"
+ },
+ "113:LECCION.md:1": {
+  "huella": "b4c08a8fe05f417f",
+  "archivo": "113/01.m4a"
+ },
+ "113:LECCION.md:2": {
+  "huella": "f94331394162f5ae",
+  "archivo": "113/02.m4a"
+ },
+ "113:LECCION.md:3": {
+  "huella": "dbcea9be9ff49769",
+  "archivo": "113/03.m4a"
+ },
+ "113:LECCION.md:4": {
+  "huella": "065aad004398c37c",
+  "archivo": "113/04.m4a"
+ },
+ "113:LECCION.md:5": {
+  "huella": "9870ce60a689b757",
+  "archivo": "113/05.m4a"
+ },
+ "113:LECCION.md:6": {
+  "huella": "8f8aa8c5ab79e08a",
+  "archivo": "113/06.m4a"
+ },
+ "114:LECCION.md:1": {
+  "huella": "ca8655b2e74e1b5c",
+  "archivo": "114/01.m4a"
+ },
+ "114:LECCION.md:2": {
+  "huella": "d5db3d76db946e43",
+  "archivo": "114/02.m4a"
+ },
+ "114:LECCION.md:3": {
+  "huella": "2a3def83d513123d",
+  "archivo": "114/03.m4a"
+ },
+ "114:LECCION.md:4": {
+  "huella": "0db9d9e953177a17",
+  "archivo": "114/04.m4a"
+ },
+ "114:LECCION.md:5": {
+  "huella": "3a7239b866e3ecb8",
+  "archivo": "114/05.m4a"
+ },
+ "114:LECCION.md:6": {
+  "huella": "378ca677da866a46",
+  "archivo": "114/06.m4a"
+ },
+ "114:LECCION.md:7": {
+  "huella": "bb246b5fb32ef774",
+  "archivo": "114/07.m4a"
+ },
+ "19:LECCION.md:12": {
+  "huella": "dd9281195a814622",
+  "archivo": "19/12.m4a"
+ },
+ "44:LECCION.md:6": {
+  "huella": "730082e3dc485681",
+  "archivo": "44/06.m4a"
+ },
+ "115:LECCION.md:1": {
+  "huella": "72cffb806ccc078e",
+  "archivo": "115/01.m4a"
+ },
+ "115:LECCION.md:2": {
+  "huella": "8bff6ed8e318a02c",
+  "archivo": "115/02.m4a"
+ },
+ "115:LECCION.md:3": {
+  "huella": "6800d0ce08434dc6",
+  "archivo": "115/03.m4a"
+ },
+ "115:LECCION.md:4": {
+  "huella": "406b7b4f0743f860",
+  "archivo": "115/04.m4a"
+ },
+ "115:LECCION.md:5": {
+  "huella": "62f902ac2b6d7f11",
+  "archivo": "115/05.m4a"
+ },
+ "116:LECCION.md:1": {
+  "huella": "4961f1ad3b799264",
+  "archivo": "116/01.m4a"
+ },
+ "116:LECCION.md:2": {
+  "huella": "44c28ff73eaee915",
+  "archivo": "116/02.m4a"
+ },
+ "116:LECCION.md:3": {
+  "huella": "3ee4530a48cbe3f6",
+  "archivo": "116/03.m4a"
+ },
+ "116:LECCION.md:4": {
+  "huella": "32ab22b609889db9",
+  "archivo": "116/04.m4a"
+ },
+ "116:LECCION.md:5": {
+  "huella": "b5e18c0e3eb9d6d8",
+  "archivo": "116/05.m4a"
+ },
+ "116:LECCION.md:6": {
+  "huella": "ca9f7e0d14a65e2b",
+  "archivo": "116/06.m4a"
+ },
+ "116:LECCION.md:7": {
+  "huella": "82c5849d2f0bb7de",
+  "archivo": "116/07.m4a"
+ },
+ "18:CLASE-GUIADA.md:15": {
+  "huella": "2522f142d892843e",
+  "archivo": "18/15.m4a"
+ },
+ "01:CLASE-GUIADA.md:8": {
+  "huella": "697cd7f064a1126f",
+  "archivo": "01/08.m4a"
+ },
+ "117:LECCION.md:1": {
+  "huella": "503249db636dd57f",
+  "archivo": "117/01.m4a"
+ },
+ "117:LECCION.md:2": {
+  "huella": "1d9fabc319d4d6ec",
+  "archivo": "117/02.m4a"
+ },
+ "117:LECCION.md:3": {
+  "huella": "fd4623bd22d52df9",
+  "archivo": "117/03.m4a"
+ },
+ "117:LECCION.md:4": {
+  "huella": "23783323f977da8b",
+  "archivo": "117/04.m4a"
+ },
+ "117:LECCION.md:5": {
+  "huella": "5e82973826998ae1",
+  "archivo": "117/05.m4a"
+ },
+ "118:LECCION.md:1": {
+  "huella": "0f4cd79126e5e1e3",
+  "archivo": "118/01.m4a"
+ },
+ "118:LECCION.md:2": {
+  "huella": "40f27c65b0448ccb",
+  "archivo": "118/02.m4a"
+ },
+ "118:LECCION.md:3": {
+  "huella": "91589543a3876884",
+  "archivo": "118/03.m4a"
+ },
+ "118:LECCION.md:4": {
+  "huella": "c51b69486bcfbc1d",
+  "archivo": "118/04.m4a"
+ },
+ "118:LECCION.md:5": {
+  "huella": "314476c615ed7d90",
+  "archivo": "118/05.m4a"
+ },
+ "119:LECCION.md:1": {
+  "huella": "9537d737b1e327b6",
+  "archivo": "119/01.m4a"
+ },
+ "119:LECCION.md:2": {
+  "huella": "95ad16d73ff4fffc",
+  "archivo": "119/02.m4a"
+ },
+ "119:LECCION.md:3": {
+  "huella": "277bc1bb974e72d3",
+  "archivo": "119/03.m4a"
+ },
+ "119:LECCION.md:4": {
+  "huella": "0fe6b79c4741870a",
+  "archivo": "119/04.m4a"
+ },
+ "119:LECCION.md:5": {
+  "huella": "414f9b862936811d",
+  "archivo": "119/05.m4a"
+ },
+ "120:LECCION.md:1": {
+  "huella": "6b49f445755f54b2",
+  "archivo": "120/01.m4a"
+ },
+ "120:LECCION.md:2": {
+  "huella": "90289a945001c4e8",
+  "archivo": "120/02.m4a"
+ },
+ "120:LECCION.md:3": {
+  "huella": "a653c954f59d2fb6",
+  "archivo": "120/03.m4a"
+ },
+ "120:LECCION.md:4": {
+  "huella": "ab372941d7a404e2",
+  "archivo": "120/04.m4a"
+ },
+ "120:LECCION.md:5": {
+  "huella": "a849271e83b9d1a5",
+  "archivo": "120/05.m4a"
+ },
+ "121:LECCION.md:1": {
+  "huella": "7b32cde7ab0b9230",
+  "archivo": "121/01.m4a"
+ },
+ "121:LECCION.md:2": {
+  "huella": "2163ca2b855695bf",
+  "archivo": "121/02.m4a"
+ },
+ "121:LECCION.md:3": {
+  "huella": "5635329f3608eaa3",
+  "archivo": "121/03.m4a"
+ },
+ "121:LECCION.md:4": {
+  "huella": "1eb8daa62ed58469",
+  "archivo": "121/04.m4a"
+ },
+ "122:LECCION.md:1": {
+  "huella": "41d48d67fefa04d3",
+  "archivo": "122/01.m4a"
+ },
+ "122:LECCION.md:2": {
+  "huella": "0895a1bb5851f52e",
+  "archivo": "122/02.m4a"
+ },
+ "122:LECCION.md:3": {
+  "huella": "2e0c08331aff3b34",
+  "archivo": "122/03.m4a"
+ },
+ "122:LECCION.md:4": {
+  "huella": "a2f197a96efcf404",
+  "archivo": "122/04.m4a"
+ },
+ "123:LECCION.md:1": {
+  "huella": "fa4330550efb6688",
+  "archivo": "123/01.m4a"
+ },
+ "123:LECCION.md:2": {
+  "huella": "fc3b4ba0fbfcce01",
+  "archivo": "123/02.m4a"
+ },
+ "123:LECCION.md:3": {
+  "huella": "f0779ed2da5ae9bd",
+  "archivo": "123/03.m4a"
+ },
+ "123:LECCION.md:4": {
+  "huella": "0b9b0f6d33dc3637",
+  "archivo": "123/04.m4a"
+ },
+ "123:LECCION.md:5": {
+  "huella": "eb9195e10efb7a52",
+  "archivo": "123/05.m4a"
+ },
+ "124:LECCION.md:1": {
+  "huella": "7730e098d58813b4",
+  "archivo": "124/01.m4a"
+ },
+ "124:LECCION.md:2": {
+  "huella": "8bb3e208727f6aba",
+  "archivo": "124/02.m4a"
+ },
+ "124:LECCION.md:3": {
+  "huella": "0006f3b1cda3bfb0",
+  "archivo": "124/03.m4a"
+ },
+ "124:LECCION.md:4": {
+  "huella": "af7bb8e14ec70b26",
+  "archivo": "124/04.m4a"
+ },
+ "124:LECCION.md:5": {
+  "huella": "92a7eba48fa226a7",
+  "archivo": "124/05.m4a"
+ },
+ "01:CLASE-GUIADA.md:9": {
+  "huella": "ee6de22b2d92e453",
+  "archivo": "01/09.m4a"
+ },
+ "01:CLASE-GUIADA.md:10": {
+  "huella": "8933bd3bc9e38667",
+  "archivo": "01/10.m4a"
+ },
+ "02:CLASE-GUIADA.md:12": {
+  "huella": "e980b84407beee67",
+  "archivo": "02/12.m4a"
+ },
+ "04:CLASE-GUIADA.md:12": {
+  "huella": "d15b338f6dce9c2b",
+  "archivo": "04/12.m4a"
+ },
+ "125:LECCION.md:1": {
+  "huella": "e6f951367f99f879",
+  "archivo": "125/01.m4a"
+ },
+ "125:LECCION.md:2": {
+  "huella": "a9b4f0a351694d39",
+  "archivo": "125/02.m4a"
+ },
+ "125:LECCION.md:3": {
+  "huella": "bd012257ffc6577d",
+  "archivo": "125/03.m4a"
+ },
+ "125:LECCION.md:4": {
+  "huella": "c0a137161844d15a",
+  "archivo": "125/04.m4a"
+ },
+ "125:LECCION.md:5": {
+  "huella": "2f5a0885571225a7",
+  "archivo": "125/05.m4a"
+ },
+ "125:LECCION.md:6": {
+  "huella": "cb7894e1cfabbb25",
+  "archivo": "125/06.m4a"
+ },
+ "125:LECCION.md:7": {
+  "huella": "0fb639512e050a99",
+  "archivo": "125/07.m4a"
+ },
+ "125:LECCION.md:8": {
+  "huella": "01b2936d71c8875a",
+  "archivo": "125/08.m4a"
+ },
+ "126:LECCION.md:1": {
+  "huella": "4aa3cdff18d343c2",
+  "archivo": "126/01.m4a"
+ },
+ "126:LECCION.md:2": {
+  "huella": "a925ca11ec1f8a3b",
+  "archivo": "126/02.m4a"
+ },
+ "126:LECCION.md:3": {
+  "huella": "468832ad619faf46",
+  "archivo": "126/03.m4a"
+ },
+ "126:LECCION.md:4": {
+  "huella": "7a8250b4d106d9dd",
+  "archivo": "126/04.m4a"
+ },
+ "126:LECCION.md:5": {
+  "huella": "e6f3e99a4b212f40",
+  "archivo": "126/05.m4a"
+ },
+ "126:LECCION.md:6": {
+  "huella": "b79b1869b17c0732",
+  "archivo": "126/06.m4a"
+ },
+ "127:LECCION.md:1": {
+  "huella": "dc354d3ac10d725e",
+  "archivo": "127/01.m4a"
+ },
+ "127:LECCION.md:2": {
+  "huella": "2e729a97baf58147",
+  "archivo": "127/02.m4a"
+ },
+ "127:LECCION.md:3": {
+  "huella": "99167a8b43ed72bd",
+  "archivo": "127/03.m4a"
+ },
+ "127:LECCION.md:4": {
+  "huella": "7a6116791bdf3b91",
+  "archivo": "127/04.m4a"
+ },
+ "127:LECCION.md:5": {
+  "huella": "5fef29b4d70628f1",
+  "archivo": "127/05.m4a"
+ },
+ "127:LECCION.md:6": {
+  "huella": "db0375654552dd75",
+  "archivo": "127/06.m4a"
+ },
+ "127:LECCION.md:7": {
+  "huella": "4996bb534be9ce3b",
+  "archivo": "127/07.m4a"
+ },
+ "128:LECCION.md:1": {
+  "huella": "910a96ce4831816d",
+  "archivo": "128/01.m4a"
+ },
+ "128:LECCION.md:2": {
+  "huella": "a0b744668dd717e5",
+  "archivo": "128/02.m4a"
+ },
+ "128:LECCION.md:3": {
+  "huella": "b37f6f5327275ba2",
+  "archivo": "128/03.m4a"
+ },
+ "128:LECCION.md:4": {
+  "huella": "7b2a807091055ae7",
+  "archivo": "128/04.m4a"
+ },
+ "128:LECCION.md:5": {
+  "huella": "e23305f46e3314af",
+  "archivo": "128/05.m4a"
+ }
+}
